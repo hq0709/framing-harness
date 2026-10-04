@@ -43,20 +43,6 @@ PREFIX = {"Task06_Lung": "lung", "Task03_Liver": "liver",
           "Task07_Pancreas": "pancreas", "Task10_Colon": "colon"}
 
 
-def load_any(name):
-    """One loader for every family: the image-text-to-text auto class covers Qwen2.5-VL, Gemma 3,
-    InternVL's HF port and LLaVA, and each ships the chat template its own readout needs."""
-    from transformers import AutoProcessor, AutoModelForImageTextToText
-    proc = AutoProcessor.from_pretrained(name, trust_remote_code=True)
-    for attr, px in (("min_pixels", 448 * 448), ("max_pixels", 448 * 448)):
-        if hasattr(getattr(proc, "image_processor", None), attr):
-            setattr(proc.image_processor, attr, px)
-    model = AutoModelForImageTextToText.from_pretrained(
-        name, dtype=torch.bfloat16, device_map="cuda:0",
-        trust_remote_code=True, attn_implementation="sdpa").eval()
-    return model, proc
-
-
 def read(model, proc, images, question) -> float:
     """log P(yes) - log P(no) at the answer position."""
     content = [{"type": "image", "image": im} for im in images]

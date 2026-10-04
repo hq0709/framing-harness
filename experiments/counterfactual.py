@@ -16,7 +16,6 @@ The control for both: in the rendered slice, replace the tumour's patch with the
 same place in the other lung. Same patient, same level, same window, same everything, no tumour. A negative
 constructed this way cannot differ in height, in habitus or in scanner, so a readout that separates real
 from counterfactual is reading the tumour and a readout that does not is reading something else. Labels
-from fh import MSD, RESULTS, load_any, read_yesno, render
 build the control; neither readout sees them.
 """
 import argparse, json
@@ -26,6 +25,7 @@ import nibabel as nib
 import numpy as np
 from PIL import Image
 from scipy import stats
+from fh import MSD, RESULTS, load_any, read_yesno, render
 
 
 Q = "Is there an abnormality in the lung shown in these images? Answer Yes or No."

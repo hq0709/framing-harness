@@ -3,7 +3,6 @@
 One model, one axis: holding the patient, the level and the tumour fixed and changing only the crop scale
 moved the rate of answering Yes from 10.3% to 93.3%, a nine-fold swing, while the ability to tell that slice
 from the same slice with its tumour painted out stayed at AUROC 0.58 throughout. The evidence never moved.
-from fh import MSD, RESULTS, load_any, read_yesno, render
 The answer moved all the way.
 
 If that is a property of these models rather than of one crop ladder, it should appear along any axis that
@@ -23,6 +22,7 @@ import nibabel as nib
 import numpy as np
 from PIL import Image
 from scipy import stats
+from fh import MSD, RESULTS, load_any, read_yesno, render
 
 
 SIDE, GRID = 512, 448

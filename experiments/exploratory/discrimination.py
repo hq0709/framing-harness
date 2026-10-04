@@ -7,7 +7,8 @@ volume, same window, same size: one slice through the middle of the tumour, one 
 several wordings from the most clinical to the most permissive. If no wording separates the two, the
 capability is absent and no viewport can supply it.
 """
-import json, sys
+import argparse
+import json
 from pathlib import Path
 import nibabel as nib, numpy as np
 from fh import MSD, RESULTS, load_any, read_yesno, render
@@ -19,7 +20,11 @@ QUESTIONS = {
     "abnormal":    "Is there an abnormality in the lungs in this image? Answer Yes or No.",
     "not_normal":  "Are the lungs in this image normal? Answer Yes or No.",      # sign flips
 }
-N = int(sys.argv[1]) if len(sys.argv) > 1 else 20
+ap = argparse.ArgumentParser()
+ap.add_argument("--model", default="Qwen/Qwen2.5-VL-7B-Instruct")
+ap.add_argument("--cases", type=int, default=20)
+a = ap.parse_args()
+N = a.cases
 
 model, proc = load_any(a.model)
 

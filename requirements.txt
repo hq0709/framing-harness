@@ -9,3 +9,4 @@ scipy
 nibabel
 datasets
 huggingface_hub
+pyflakes  # scripts/check.sh only

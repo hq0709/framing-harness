@@ -17,34 +17,9 @@ from fh import MSD, RESULTS, read_yesno, render
 import nibabel as nib
 import numpy as np
 import torch
-from PIL import Image
 
 LUNG = MSD / 'Task06_Lung'
 LUNG_WL, LUNG_WW = -600.0, 1500.0
-
-
-def render(vol: np.ndarray, z: int, side: int = 512) -> Image.Image:
-    lo, hi = LUNG_WL - LUNG_WW / 2, LUNG_WL + LUNG_WW / 2
-    sl = np.clip((vol[:, :, z].astype(np.float32) - lo) / (hi - lo), 0, 1)
-    sl = np.rot90(sl)                                   # radiological orientation
-    img = Image.fromarray((sl * 255).astype(np.uint8)).convert("RGB")
-    return img.resize((side, side), Image.BILINEAR)
-
-
-def read_yesno(model, proc, images, question):
-    content = [{"type": "image", "image": im} for im in images]
-    content.append({"type": "text", "text": question})
-    msgs = [{"role": "user", "content": content}]
-    text = proc.apply_chat_template(msgs, add_generation_prompt=True, tokenize=False)
-    enc = proc(text=[text], images=images, return_tensors="pt", padding=True).to(model.device)
-    with torch.no_grad():
-        out = model(**enc)
-    logits = out.logits[0, -1].float()
-    tok = proc.tokenizer
-    ids = lambda w: [tok.encode(w, add_special_tokens=False)[0] for w in w]
-    yes = torch.logsumexp(logits[ids(["Yes", " Yes", "yes", " yes"])], 0)
-    no = torch.logsumexp(logits[ids(["No", " No", "no", " no"])], 0)
-    return float(yes - no)
 
 
 ap = argparse.ArgumentParser()

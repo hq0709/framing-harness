@@ -8,10 +8,10 @@ Three operators remove b, ordered by what they need:
     centre        subtract that presentation's batch median                      (needs a batch, costs nothing)
     difference    subtract a matched input read under the same presentation      (needs a counterpart)
 """
-from fh.config import COCO, DATA, MSD, RESULTS, need, out          # noqa: F401
+from fh.config import COCO, DATA, HF_HOME, MSD, RESULTS, need, out          # noqa: F401
 from fh.operators import auroc, balanced_accuracy, centre, marginalise  # noqa: F401
 from fh.presentations import PRESENTATIONS, present                # noqa: F401
 from fh.readout import load_any, read_yesno, render                # noqa: F401
 
-__all__ = ["COCO", "DATA", "MSD", "RESULTS", "need", "out", "auroc", "balanced_accuracy",
+__all__ = ["COCO", "DATA", "HF_HOME", "MSD", "RESULTS", "need", "out", "auroc", "balanced_accuracy",
            "centre", "marginalise", "PRESENTATIONS", "present", "load_any", "read_yesno", "render"]

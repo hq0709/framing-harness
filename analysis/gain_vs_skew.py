@@ -17,7 +17,7 @@ lopsided the plain readout's two error rates are; gain is what the comparison do
 If the line is flat, the harness is a coin flip dressed as a method. If it slopes, the harness is doing one
 thing, doing it for a reason, and declaring in advance where it will and will not help.
 """
-import glob, json, re
+import glob, json
 from collections import defaultdict
 from fh import RESULTS
 

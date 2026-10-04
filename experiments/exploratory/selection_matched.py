@@ -2,7 +2,6 @@
 
 The last place this idea can fail. Accumulation works: ten anatomy-matched views separate the lesion side
 from the other side where one view does not. But if views spread uniformly through the volume accumulate
-from fh import MSD, RESULTS, load_any, read_yesno, render
 just as well as views aimed at the lesion, then nothing has to decide where to look, the budget is the whole
 story, and the agent layer is decoration.
 
@@ -16,6 +15,7 @@ from pathlib import Path
 import nibabel as nib
 import numpy as np
 from scipy import stats
+from fh import MSD, RESULTS, load_any, read_yesno, render
 
 
 QN = "Is there an abnormality in the lung shown in these images? Answer Yes or No."
