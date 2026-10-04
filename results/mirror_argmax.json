@@ -1,0 +1,31 @@
+{
+ "slabs": {
+  "lesion": 189,
+  "clean": 189
+ },
+ "cases": 63,
+ "detection_auroc": {
+  "ours": 0.4732510288065844,
+  "abs_region": 0.6190896111531032,
+  "abs_slab": 0.8378404859886341
+ },
+ "says_yes_rate": {
+  "abs_region": 0.1455026455026455,
+  "abs_slab": 0.037037037037037035
+ },
+ "localisation": {
+  "hits": "76/189",
+  "acc": 0.4021164021164021,
+  "chance": 0.25,
+  "binom_p": 3.1081580706760774e-06
+ },
+ "localisation_abs_baseline": {
+  "hits": "70/189",
+  "acc": 0.37037037037037035
+ },
+ "clean_vs_lesion_max_score": {
+  "lesion_mean": 0.8339757566098813,
+  "clean_mean": 0.8657314260169943,
+  "mannwhitney_p": 0.8159540629262552
+ }
+}

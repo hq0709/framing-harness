@@ -1,0 +1,42 @@
+{
+ "task": "Task07_Pancreas",
+ "organ": "pancreas",
+ "model": "lingshu-medical-mllm/Lingshu-7B",
+ "scale": 128,
+ "cases": 40,
+ "levels": 120,
+ "median_tumour_px": 681.5,
+ "median_apparent_pct": 4.1595458984375,
+ "per_level": {
+  "absolute": {
+   "auroc": 0.8457638888888889,
+   "mean_gap": 0.7979770501454672,
+   "wins": "101/120",
+   "wilcoxon_p": 8.496232188544212e-17
+  },
+  "axial": {
+   "auroc": 0.775625,
+   "mean_gap": 0.7979770501454672,
+   "wins": "101/120",
+   "wilcoxon_p": 8.496232188544212e-17
+  }
+ },
+ "says_yes": {
+  "real": 0.8416666666666667,
+  "cf": 0.49166666666666664
+ },
+ "per_case_mean_over_levels": {
+  "absolute": {
+   "auroc": 0.859375,
+   "mean_gap": 0.7979770501454672,
+   "wins": "34/40",
+   "wilcoxon_p": 6.897607818245888e-09
+  },
+  "axial": {
+   "auroc": 0.83625,
+   "mean_gap": 0.797977050145467,
+   "wins": "34/40",
+   "wilcoxon_p": 6.897607818245888e-09
+  }
+ }
+}

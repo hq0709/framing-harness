@@ -1,0 +1,434 @@
+{"exp": "E1", "case": "lung_001", "n": 1, "lesion": 2.2500171661376953, "clean": -1.8749618530273438}
+{"exp": "E1", "case": "lung_001", "n": 3, "lesion": 0.000885009765625, "clean": 0.37523841857910156}
+{"exp": "E1", "case": "lung_001", "n": 5, "lesion": 0.001613616943359375, "clean": 0.376068115234375}
+{"exp": "E1", "case": "lung_001", "n": 10, "lesion": -0.2476482391357422, "clean": 0.1259288787841797}
+{"exp": "E2", "case": "lung_001", "focused": 0.001613616943359375, "uniform": -0.7478389739990234, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_003", "n": 1, "lesion": -1.249979019165039, "clean": -4.124980926513672}
+{"exp": "E1", "case": "lung_003", "n": 3, "lesion": -1.7475242614746094, "clean": -1.246856689453125}
+{"exp": "E1", "case": "lung_003", "n": 5, "lesion": -1.747568130493164, "clean": -0.7454204559326172}
+{"exp": "E1", "case": "lung_003", "n": 10, "lesion": -1.871480941772461, "clean": -0.3645591735839844}
+{"exp": "E2", "case": "lung_003", "focused": -1.747568130493164, "uniform": -1.2408504486083984, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_004", "n": 1, "lesion": 0.5000209808349609, "clean": -3.2499732971191406}
+{"exp": "E1", "case": "lung_004", "n": 3, "lesion": -0.6226615905761719, "clean": -0.6236057281494141}
+{"exp": "E1", "case": "lung_004", "n": 5, "lesion": -0.6206417083740234, "clean": -0.7465343475341797}
+{"exp": "E1", "case": "lung_004", "n": 10, "lesion": -1.2469139099121094, "clean": -0.8705673217773438}
+{"exp": "E2", "case": "lung_004", "focused": -0.6206417083740234, "uniform": -0.8693962097167969, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_005", "n": 1, "lesion": 4.38690185546875e-05, "clean": -5.999990463256836}
+{"exp": "E1", "case": "lung_005", "n": 3, "lesion": 0.000240325927734375, "clean": -0.8747234344482422}
+{"exp": "E1", "case": "lung_005", "n": 5, "lesion": 0.2511329650878906, "clean": -0.37355613708496094}
+{"exp": "E1", "case": "lung_005", "n": 10, "lesion": -0.3736610412597656, "clean": -0.37261962890625}
+{"exp": "E2", "case": "lung_005", "focused": 0.2511329650878906, "uniform": -0.12356758117675781, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_006", "n": 1, "lesion": -0.6249713897705078, "clean": -3.1249732971191406}
+{"exp": "E1", "case": "lung_006", "n": 3, "lesion": -1.1233997344970703, "clean": 0.37601470947265625}
+{"exp": "E1", "case": "lung_006", "n": 5, "lesion": -0.6232433319091797, "clean": -0.3723430633544922}
+{"exp": "E1", "case": "lung_006", "n": 10, "lesion": -0.8729839324951172, "clean": -0.6223087310791016}
+{"exp": "E2", "case": "lung_006", "focused": -0.6232433319091797, "uniform": -0.6165447235107422, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_009", "n": 1, "lesion": 0.7500228881835938, "clean": -5.124988555908203}
+{"exp": "E1", "case": "lung_009", "n": 3, "lesion": 0.8753986358642578, "clean": -0.24967002868652344}
+{"exp": "E1", "case": "lung_009", "n": 5, "lesion": 1.3765487670898438, "clean": 0.3772563934326172}
+{"exp": "E1", "case": "lung_009", "n": 10, "lesion": 0.6264266967773438, "clean": -0.3731403350830078}
+{"exp": "E2", "case": "lung_009", "focused": 1.3765487670898438, "uniform": 0.1266918182373047, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_010", "n": 1, "lesion": 0.25002288818359375, "clean": -3.6249771118164062}
+{"exp": "E1", "case": "lung_010", "n": 3, "lesion": 0.2513236999511719, "clean": 0.12682342529296875}
+{"exp": "E1", "case": "lung_010", "n": 5, "lesion": 0.2519073486328125, "clean": 0.3789100646972656}
+{"exp": "E1", "case": "lung_010", "n": 10, "lesion": -0.37233543395996094, "clean": -0.11998176574707031}
+{"exp": "E2", "case": "lung_010", "focused": 0.2519073486328125, "uniform": -0.7450675964355469, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_014", "n": 1, "lesion": 1.7500190734863281, "clean": -4.1249847412109375}
+{"exp": "E1", "case": "lung_014", "n": 3, "lesion": -0.37433815002441406, "clean": 0.25082969665527344}
+{"exp": "E1", "case": "lung_014", "n": 5, "lesion": -0.248504638671875, "clean": 0.5040035247802734}
+{"exp": "E1", "case": "lung_014", "n": 10, "lesion": -0.8732280731201172, "clean": 0.5018672943115234}
+{"exp": "E2", "case": "lung_014", "focused": -0.248504638671875, "uniform": -0.2465991973876953, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_015", "n": 1, "lesion": 1.000020980834961, "clean": -4.7499847412109375}
+{"exp": "E1", "case": "lung_015", "n": 3, "lesion": -0.6244449615478516, "clean": 0.2513694763183594}
+{"exp": "E1", "case": "lung_015", "n": 5, "lesion": -0.4987831115722656, "clean": 0.628387451171875}
+{"exp": "E1", "case": "lung_015", "n": 10, "lesion": -1.2482719421386719, "clean": 0.5043544769287109}
+{"exp": "E2", "case": "lung_015", "focused": -0.4987831115722656, "uniform": -0.7436656951904297, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_016", "n": 1, "lesion": -0.37497520446777344, "clean": -5.1249847412109375}
+{"exp": "E1", "case": "lung_016", "n": 3, "lesion": 0.376373291015625, "clean": -1.3725566864013672}
+{"exp": "E1", "case": "lung_016", "n": 5, "lesion": 0.8769874572753906, "clean": -0.4954414367675781}
+{"exp": "E1", "case": "lung_016", "n": 10, "lesion": -0.24791336059570312, "clean": -0.6185779571533203}
+{"exp": "E2", "case": "lung_016", "focused": 0.8769874572753906, "uniform": 0.2523956298828125, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_018", "n": 1, "lesion": 1.0000152587890625, "clean": -6.749994277954102}
+{"exp": "E1", "case": "lung_018", "n": 3, "lesion": 0.12676048278808594, "clean": -0.8735828399658203}
+{"exp": "E1", "case": "lung_018", "n": 5, "lesion": 0.00234222412109375, "clean": 0.133056640625}
+{"exp": "E1", "case": "lung_018", "n": 10, "lesion": -0.6219673156738281, "clean": 0.016754150390625}
+{"exp": "E2", "case": "lung_018", "focused": 0.00234222412109375, "uniform": -0.7415599822998047, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_020", "n": 1, "lesion": 2.6702880859375e-05, "clean": -2.3749523162841797}
+{"exp": "E1", "case": "lung_020", "n": 3, "lesion": -0.2492542266845703, "clean": -0.7495689392089844}
+{"exp": "E1", "case": "lung_020", "n": 5, "lesion": 0.002162933349609375, "clean": 0.12676239013671875}
+{"exp": "E1", "case": "lung_020", "n": 10, "lesion": -0.49888038635253906, "clean": -1.1229286193847656}
+{"exp": "E2", "case": "lung_020", "focused": 0.002162933349609375, "uniform": -0.7488231658935547, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_022", "n": 1, "lesion": 0.7500228881835938, "clean": -1.4999732971191406}
+{"exp": "E1", "case": "lung_022", "n": 3, "lesion": 0.12596893310546875, "clean": 0.8765525817871094}
+{"exp": "E1", "case": "lung_022", "n": 5, "lesion": 0.25300025939941406, "clean": 0.6284503936767578}
+{"exp": "E1", "case": "lung_022", "n": 10, "lesion": -0.6226348876953125, "clean": 0.25630760192871094}
+{"exp": "E2", "case": "lung_022", "focused": 0.25300025939941406, "uniform": -0.24555397033691406, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_023", "n": 1, "lesion": 1.2500190734863281, "clean": -5.374990463256836}
+{"exp": "E1", "case": "lung_023", "n": 3, "lesion": 0.12557220458984375, "clean": 0.2515525817871094}
+{"exp": "E1", "case": "lung_023", "n": 5, "lesion": -0.2482929229736328, "clean": 0.6273441314697266}
+{"exp": "E1", "case": "lung_023", "n": 10, "lesion": -0.6237926483154297, "clean": 0.7526493072509766}
+{"exp": "E2", "case": "lung_023", "focused": -0.2482929229736328, "uniform": -0.12261199951171875, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_025", "n": 1, "lesion": 0.37502288818359375, "clean": -3.124980926513672}
+{"exp": "E1", "case": "lung_025", "n": 3, "lesion": -0.7484035491943359, "clean": 0.37799072265625}
+{"exp": "E1", "case": "lung_025", "n": 5, "lesion": -1.1228046417236328, "clean": 0.005825042724609375}
+{"exp": "E1", "case": "lung_025", "n": 10, "lesion": -1.2480525970458984, "clean": -0.4972686767578125}
+{"exp": "E2", "case": "lung_025", "focused": -1.1228046417236328, "uniform": -0.8654727935791016, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_026", "n": 1, "lesion": 0.7500190734863281, "clean": -1.4999752044677734}
+{"exp": "E1", "case": "lung_026", "n": 3, "lesion": -0.6228752136230469, "clean": 0.3771533966064453}
+{"exp": "E1", "case": "lung_026", "n": 5, "lesion": -0.7476482391357422, "clean": 0.7520027160644531}
+{"exp": "E1", "case": "lung_026", "n": 10, "lesion": -1.6214046478271484, "clean": 0.12935447692871094}
+{"exp": "E2", "case": "lung_026", "focused": -0.7476482391357422, "uniform": -0.4956398010253906, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_027", "n": 1, "lesion": 0.2500152587890625, "clean": -1.624979019165039}
+{"exp": "E1", "case": "lung_027", "n": 3, "lesion": -0.1239776611328125, "clean": 0.1270008087158203}
+{"exp": "E1", "case": "lung_027", "n": 5, "lesion": 0.2512226104736328, "clean": -0.9976902008056641}
+{"exp": "E1", "case": "lung_027", "n": 10, "lesion": 0.1263275146484375, "clean": -1.4975128173828125}
+{"exp": "E2", "case": "lung_027", "focused": 0.2512226104736328, "uniform": -1.2459659576416016, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_028", "n": 1, "lesion": -0.6249752044677734, "clean": -2.3749732971191406}
+{"exp": "E1", "case": "lung_028", "n": 3, "lesion": 0.37755393981933594, "clean": -1.8714485168457031}
+{"exp": "E1", "case": "lung_028", "n": 5, "lesion": 0.7520637512207031, "clean": -0.7449855804443359}
+{"exp": "E1", "case": "lung_028", "n": 10, "lesion": -0.372711181640625, "clean": -1.6059455871582031}
+{"exp": "E2", "case": "lung_028", "focused": 0.7520637512207031, "uniform": -0.7408676147460938, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_029", "n": 1, "lesion": 0.6250190734863281, "clean": -3.2499771118164062}
+{"exp": "E1", "case": "lung_029", "n": 3, "lesion": -0.7476654052734375, "clean": -0.1237945556640625}
+{"exp": "E1", "case": "lung_029", "n": 5, "lesion": -0.9978084564208984, "clean": -0.49799537658691406}
+{"exp": "E1", "case": "lung_029", "n": 10, "lesion": -1.2476139068603516, "clean": -0.8719692230224609}
+{"exp": "E2", "case": "lung_029", "focused": -0.9978084564208984, "uniform": -0.9961261749267578, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_031", "n": 1, "lesion": 1.7500133514404297, "clean": -5.249988555908203}
+{"exp": "E1", "case": "lung_031", "n": 3, "lesion": 1.2506790161132812, "clean": 0.2509765625}
+{"exp": "E1", "case": "lung_031", "n": 5, "lesion": 1.3772506713867188, "clean": 1.2520923614501953}
+{"exp": "E1", "case": "lung_031", "n": 10, "lesion": -0.3728752136230469, "clean": -0.12097740173339844}
+{"exp": "E2", "case": "lung_031", "focused": 1.3772506713867188, "uniform": 0.003421783447265625, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_033", "n": 1, "lesion": -0.12497901916503906, "clean": -3.9999866485595703}
+{"exp": "E1", "case": "lung_033", "n": 3, "lesion": 0.5015525817871094, "clean": -0.24753379821777344}
+{"exp": "E1", "case": "lung_033", "n": 5, "lesion": 0.12732315063476562, "clean": 0.7549247741699219}
+{"exp": "E1", "case": "lung_033", "n": 10, "lesion": -0.123138427734375, "clean": 0.8823585510253906}
+{"exp": "E2", "case": "lung_033", "focused": 0.12732315063476562, "uniform": -0.9928455352783203, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_034", "n": 1, "lesion": 0.12502098083496094, "clean": -5.124988555908203}
+{"exp": "E1", "case": "lung_034", "n": 3, "lesion": 0.5017814636230469, "clean": 0.5030498504638672}
+{"exp": "E1", "case": "lung_034", "n": 5, "lesion": 0.001384735107421875, "clean": 1.0050048828125}
+{"exp": "E1", "case": "lung_034", "n": 10, "lesion": -0.49762535095214844, "clean": 0.6295166015625}
+{"exp": "E2", "case": "lung_034", "focused": 0.001384735107421875, "uniform": -0.6168041229248047, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_036", "n": 1, "lesion": 1.0000171661376953, "clean": -4.7499847412109375}
+{"exp": "E1", "case": "lung_036", "n": 3, "lesion": -0.123443603515625, "clean": 0.3774394989013672}
+{"exp": "E1", "case": "lung_036", "n": 5, "lesion": 0.2522544860839844, "clean": 0.1299152374267578}
+{"exp": "E1", "case": "lung_036", "n": 10, "lesion": 0.3766593933105469, "clean": 0.3794212341308594}
+{"exp": "E2", "case": "lung_036", "focused": 0.2522544860839844, "uniform": 0.2539196014404297, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_037", "n": 1, "lesion": -1.3749752044677734, "clean": 1.3750190734863281}
+{"exp": "E1", "case": "lung_037", "n": 3, "lesion": -2.2483177185058594, "clean": 0.0007457733154296875}
+{"exp": "E1", "case": "lung_037", "n": 5, "lesion": -1.872201919555664, "clean": 0.25199127197265625}
+{"exp": "E1", "case": "lung_037", "n": 10, "lesion": -2.6197738647460938, "clean": -0.4982128143310547}
+{"exp": "E2", "case": "lung_037", "focused": -1.872201919555664, "uniform": 0.6267852783203125, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_038", "n": 1, "lesion": -1.3749732971191406, "clean": -5.62498664855957}
+{"exp": "E1", "case": "lung_038", "n": 3, "lesion": -0.37383460998535156, "clean": -0.6246242523193359}
+{"exp": "E1", "case": "lung_038", "n": 5, "lesion": -0.8729248046875, "clean": -0.2476654052734375}
+{"exp": "E1", "case": "lung_038", "n": 10, "lesion": -1.3722305297851562, "clean": -0.8709526062011719}
+{"exp": "E2", "case": "lung_038", "focused": -0.8729248046875, "uniform": -0.9973335266113281, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_041", "n": 1, "lesion": -0.49997711181640625, "clean": -4.624980926513672}
+{"exp": "E1", "case": "lung_041", "n": 3, "lesion": 0.0027828216552734375, "clean": -1.6211490631103516}
+{"exp": "E1", "case": "lung_041", "n": 5, "lesion": 0.6276111602783203, "clean": -1.8678436279296875}
+{"exp": "E1", "case": "lung_041", "n": 10, "lesion": 0.0028018951416015625, "clean": -0.48654937744140625}
+{"exp": "E2", "case": "lung_041", "focused": 0.6276111602783203, "uniform": 0.13059616088867188, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_042", "n": 1, "lesion": 1.3750171661376953, "clean": -2.124967575073242}
+{"exp": "E1", "case": "lung_042", "n": 3, "lesion": -0.12379074096679688, "clean": 0.6256446838378906}
+{"exp": "E1", "case": "lung_042", "n": 5, "lesion": 0.1276264190673828, "clean": 0.8772544860839844}
+{"exp": "E1", "case": "lung_042", "n": 10, "lesion": 0.002071380615234375, "clean": 0.2530040740966797}
+{"exp": "E2", "case": "lung_042", "focused": 0.1276264190673828, "uniform": 0.6268234252929688, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_043", "n": 1, "lesion": 0.12502288818359375, "clean": -3.249980926513672}
+{"exp": "E1", "case": "lung_043", "n": 3, "lesion": -0.2489337921142578, "clean": -0.62445068359375}
+{"exp": "E1", "case": "lung_043", "n": 5, "lesion": -0.7469921112060547, "clean": 0.3776435852050781}
+{"exp": "E1", "case": "lung_043", "n": 10, "lesion": -0.8715705871582031, "clean": -0.12096786499023438}
+{"exp": "E2", "case": "lung_043", "focused": -0.7469921112060547, "uniform": -1.2461318969726562, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_044", "n": 1, "lesion": 0.37502288818359375, "clean": -5.374992370605469}
+{"exp": "E1", "case": "lung_044", "n": 3, "lesion": -0.9979476928710938, "clean": 0.5029926300048828}
+{"exp": "E1", "case": "lung_044", "n": 5, "lesion": -1.3726425170898438, "clean": 1.2549934387207031}
+{"exp": "E1", "case": "lung_044", "n": 10, "lesion": -1.3714714050292969, "clean": -0.11776542663574219}
+{"exp": "E2", "case": "lung_044", "focused": -1.3726425170898438, "uniform": -0.7456264495849609, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_045", "n": 1, "lesion": 0.37502288818359375, "clean": -1.2499713897705078}
+{"exp": "E1", "case": "lung_045", "n": 3, "lesion": -0.8732242584228516, "clean": 0.2526130676269531}
+{"exp": "E1", "case": "lung_045", "n": 5, "lesion": -0.7482738494873047, "clean": 0.6281280517578125}
+{"exp": "E1", "case": "lung_045", "n": 10, "lesion": -1.2478256225585938, "clean": -0.12197303771972656}
+{"exp": "E2", "case": "lung_045", "focused": -0.7482738494873047, "uniform": -0.24616050720214844, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_046", "n": 1, "lesion": -0.4999656677246094, "clean": -0.37497711181640625}
+{"exp": "E1", "case": "lung_046", "n": 3, "lesion": -0.24831199645996094, "clean": 0.376800537109375}
+{"exp": "E1", "case": "lung_046", "n": 5, "lesion": 0.1263713836669922, "clean": 0.7512741088867188}
+{"exp": "E1", "case": "lung_046", "n": 10, "lesion": -0.12297821044921875, "clean": 0.002025604248046875}
+{"exp": "E2", "case": "lung_046", "focused": 0.1263713836669922, "uniform": -1.3683929443359375, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_047", "n": 1, "lesion": 0.5000267028808594, "clean": -7.499992370605469}
+{"exp": "E1", "case": "lung_047", "n": 3, "lesion": -0.12357711791992188, "clean": -0.8739604949951172}
+{"exp": "E1", "case": "lung_047", "n": 5, "lesion": -0.2475605010986328, "clean": -0.12096786499023438}
+{"exp": "E1", "case": "lung_047", "n": 10, "lesion": -0.872344970703125, "clean": -0.3669090270996094}
+{"exp": "E2", "case": "lung_047", "focused": -0.2475605010986328, "uniform": -1.8700408935546875, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_048", "n": 1, "lesion": 1.5000228881835938, "clean": -2.8749752044677734}
+{"exp": "E1", "case": "lung_048", "n": 3, "lesion": -0.12391471862792969, "clean": 0.25044822692871094}
+{"exp": "E1", "case": "lung_048", "n": 5, "lesion": -0.24723052978515625, "clean": 1.1288299560546875}
+{"exp": "E1", "case": "lung_048", "n": 10, "lesion": -0.6226291656494141, "clean": -0.122650146484375}
+{"exp": "E2", "case": "lung_048", "focused": -0.24723052978515625, "uniform": -1.2464351654052734, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_049", "n": 1, "lesion": 2.5000133514404297, "clean": -2.3749771118164062}
+{"exp": "E1", "case": "lung_049", "n": 3, "lesion": 1.0024433135986328, "clean": 1.501852035522461}
+{"exp": "E1", "case": "lung_049", "n": 5, "lesion": 1.0035362243652344, "clean": 1.7543411254882812}
+{"exp": "E1", "case": "lung_049", "n": 10, "lesion": 0.5021076202392578, "clean": 0.8794212341308594}
+{"exp": "E2", "case": "lung_049", "focused": 1.0035362243652344, "uniform": 0.6276931762695312, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_051", "n": 1, "lesion": -0.12497138977050781, "clean": -5.749990463256836}
+{"exp": "E1", "case": "lung_051", "n": 3, "lesion": -1.7491378784179688, "clean": -0.49920654296875}
+{"exp": "E1", "case": "lung_051", "n": 5, "lesion": -1.4975204467773438, "clean": -0.9941768646240234}
+{"exp": "E1", "case": "lung_051", "n": 10, "lesion": -1.9980449676513672, "clean": -1.2396602630615234}
+{"exp": "E2", "case": "lung_051", "focused": -1.4975204467773438, "uniform": -0.2456188201904297, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_053", "n": 1, "lesion": 2.09808349609375e-05, "clean": -3.2499828338623047}
+{"exp": "E1", "case": "lung_053", "n": 3, "lesion": -0.49765968322753906, "clean": -0.4976158142089844}
+{"exp": "E1", "case": "lung_053", "n": 5, "lesion": -0.3709831237792969, "clean": -0.37058448791503906}
+{"exp": "E1", "case": "lung_053", "n": 10, "lesion": -1.1200523376464844, "clean": 0.2535400390625}
+{"exp": "E2", "case": "lung_053", "focused": -0.3709831237792969, "uniform": -1.1205558776855469, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_054", "n": 1, "lesion": 0.5000267028808594, "clean": 1.3750247955322266}
+{"exp": "E1", "case": "lung_054", "n": 3, "lesion": -0.9980697631835938, "clean": 1.0010185241699219}
+{"exp": "E1", "case": "lung_054", "n": 5, "lesion": -0.49765777587890625, "clean": 0.6269874572753906}
+{"exp": "E1", "case": "lung_054", "n": 10, "lesion": -0.3718547821044922, "clean": 0.6261196136474609}
+{"exp": "E2", "case": "lung_054", "focused": -0.49765777587890625, "uniform": -0.3714275360107422, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_055", "n": 1, "lesion": 1.8750152587890625, "clean": -0.8749599456787109}
+{"exp": "E1", "case": "lung_055", "n": 3, "lesion": 0.376373291015625, "clean": 1.0016803741455078}
+{"exp": "E1", "case": "lung_055", "n": 5, "lesion": 0.6277637481689453, "clean": 1.002328872680664}
+{"exp": "E1", "case": "lung_055", "n": 10, "lesion": -0.4981842041015625, "clean": -0.37197113037109375}
+{"exp": "E2", "case": "lung_055", "focused": 0.6277637481689453, "uniform": -1.1187019348144531, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_058", "n": 1, "lesion": 2.6702880859375e-05, "clean": 0.2500171661376953}
+{"exp": "E1", "case": "lung_058", "n": 3, "lesion": -1.6222057342529297, "clean": 0.00226593017578125}
+{"exp": "E1", "case": "lung_058", "n": 5, "lesion": -0.6222991943359375, "clean": 0.2527656555175781}
+{"exp": "E1", "case": "lung_058", "n": 10, "lesion": -1.371561050415039, "clean": 0.12738609313964844}
+{"exp": "E2", "case": "lung_058", "focused": -0.6222991943359375, "uniform": -0.9961414337158203, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_059", "n": 1, "lesion": -1.2499675750732422, "clean": -0.124969482421875}
+{"exp": "E1", "case": "lung_059", "n": 3, "lesion": -0.4979896545410156, "clean": -0.49723243713378906}
+{"exp": "E1", "case": "lung_059", "n": 5, "lesion": -0.4973316192626953, "clean": -0.24723052978515625}
+{"exp": "E1", "case": "lung_059", "n": 10, "lesion": -1.2465686798095703, "clean": -0.4976081848144531}
+{"exp": "E2", "case": "lung_059", "focused": -0.4973316192626953, "uniform": 0.0043468475341796875, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_061", "n": 1, "lesion": 0.8750209808349609, "clean": 1.0000152587890625}
+{"exp": "E1", "case": "lung_061", "n": 3, "lesion": -1.1231822967529297, "clean": 0.5015544891357422}
+{"exp": "E1", "case": "lung_061", "n": 5, "lesion": -0.8732414245605469, "clean": 0.2523345947265625}
+{"exp": "E1", "case": "lung_061", "n": 10, "lesion": -1.3729019165039062, "clean": -0.24808311462402344}
+{"exp": "E2", "case": "lung_061", "focused": -0.8732414245605469, "uniform": 0.2531318664550781, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_062", "n": 1, "lesion": 0.5000247955322266, "clean": -1.124969482421875}
+{"exp": "E1", "case": "lung_062", "n": 3, "lesion": -1.122528076171875, "clean": 0.25130653381347656}
+{"exp": "E1", "case": "lung_062", "n": 5, "lesion": -0.8722076416015625, "clean": 0.8768978118896484}
+{"exp": "E1", "case": "lung_062", "n": 10, "lesion": -1.3728046417236328, "clean": 0.001453399658203125}
+{"exp": "E2", "case": "lung_062", "focused": -0.8722076416015625, "uniform": -0.3715934753417969, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_064", "n": 1, "lesion": -0.6249752044677734, "clean": -5.37498664855957}
+{"exp": "E1", "case": "lung_064", "n": 3, "lesion": 0.0012340545654296875, "clean": 1.1258544921875}
+{"exp": "E1", "case": "lung_064", "n": 5, "lesion": -0.37306785583496094, "clean": 1.1322193145751953}
+{"exp": "E1", "case": "lung_064", "n": 10, "lesion": -0.6232147216796875, "clean": 0.7668933868408203}
+{"exp": "E2", "case": "lung_064", "focused": -0.37306785583496094, "uniform": -1.991912841796875, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_065", "n": 1, "lesion": -0.2499713897705078, "clean": -0.24996566772460938}
+{"exp": "E1", "case": "lung_065", "n": 3, "lesion": 0.0010890960693359375, "clean": 0.001003265380859375}
+{"exp": "E1", "case": "lung_065", "n": 5, "lesion": 0.002254486083984375, "clean": -0.49837493896484375}
+{"exp": "E1", "case": "lung_065", "n": 10, "lesion": -0.6228466033935547, "clean": -1.6221675872802734}
+{"exp": "E2", "case": "lung_065", "focused": 0.002254486083984375, "uniform": -0.3729248046875, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_066", "n": 1, "lesion": -0.12497901916503906, "clean": -0.3749732971191406}
+{"exp": "E1", "case": "lung_066", "n": 3, "lesion": -0.8718547821044922, "clean": -1.498086929321289}
+{"exp": "E1", "case": "lung_066", "n": 5, "lesion": -0.7454280853271484, "clean": -1.3718585968017578}
+{"exp": "E1", "case": "lung_066", "n": 10, "lesion": -1.2477054595947266, "clean": -2.4968929290771484}
+{"exp": "E2", "case": "lung_066", "focused": -0.7454280853271484, "uniform": -0.8694229125976562, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_069", "n": 1, "lesion": 0.25002479553222656, "clean": -0.3749732971191406}
+{"exp": "E1", "case": "lung_069", "n": 3, "lesion": -0.24849891662597656, "clean": 0.2524299621582031}
+{"exp": "E1", "case": "lung_069", "n": 5, "lesion": -0.24874114990234375, "clean": 0.2531242370605469}
+{"exp": "E1", "case": "lung_069", "n": 10, "lesion": -0.9976253509521484, "clean": -0.49788475036621094}
+{"exp": "E2", "case": "lung_069", "focused": -0.24874114990234375, "uniform": 0.1273345947265625, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_070", "n": 1, "lesion": -0.24997711181640625, "clean": 0.5000209808349609}
+{"exp": "E1", "case": "lung_070", "n": 3, "lesion": -0.3727397918701172, "clean": 1.3778839111328125}
+{"exp": "E1", "case": "lung_070", "n": 5, "lesion": -0.24698829650878906, "clean": 1.1268119812011719}
+{"exp": "E1", "case": "lung_070", "n": 10, "lesion": -1.1211051940917969, "clean": 0.2522850036621094}
+{"exp": "E2", "case": "lung_070", "focused": -0.24698829650878906, "uniform": 0.25185203552246094, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_071", "n": 1, "lesion": -0.499969482421875, "clean": -5.374988555908203}
+{"exp": "E1", "case": "lung_071", "n": 3, "lesion": -0.9986839294433594, "clean": 0.8759937286376953}
+{"exp": "E1", "case": "lung_071", "n": 5, "lesion": -0.7485942840576172, "clean": 0.5026493072509766}
+{"exp": "E1", "case": "lung_071", "n": 10, "lesion": -1.248361587524414, "clean": 0.6289081573486328}
+{"exp": "E2", "case": "lung_071", "focused": -0.7485942840576172, "uniform": 0.8770561218261719, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_073", "n": 1, "lesion": -1.1249732971191406, "clean": -2.1249752044677734}
+{"exp": "E1", "case": "lung_073", "n": 3, "lesion": -0.6230907440185547, "clean": 1.752328872680664}
+{"exp": "E1", "case": "lung_073", "n": 5, "lesion": -0.12222099304199219, "clean": 2.004901885986328}
+{"exp": "E1", "case": "lung_073", "n": 10, "lesion": -0.37232017517089844, "clean": 0.0030307769775390625}
+{"exp": "E2", "case": "lung_073", "focused": -0.12222099304199219, "uniform": -0.2450714111328125, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_074", "n": 1, "lesion": 0.8750381469726562, "clean": -5.124982833862305}
+{"exp": "E1", "case": "lung_074", "n": 3, "lesion": -0.4997215270996094, "clean": -0.7498893737792969}
+{"exp": "E1", "case": "lung_074", "n": 5, "lesion": -0.4990959167480469, "clean": 0.12690353393554688}
+{"exp": "E1", "case": "lung_074", "n": 10, "lesion": -0.8741188049316406, "clean": -0.6236076354980469}
+{"exp": "E2", "case": "lung_074", "focused": -0.4990959167480469, "uniform": 0.7513084411621094, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_075", "n": 1, "lesion": 0.7500209808349609, "clean": -0.2499675750732422}
+{"exp": "E1", "case": "lung_075", "n": 3, "lesion": 0.00031280517578125, "clean": 1.2501029968261719}
+{"exp": "E1", "case": "lung_075", "n": 5, "lesion": -0.24888992309570312, "clean": 0.5014801025390625}
+{"exp": "E1", "case": "lung_075", "n": 10, "lesion": -0.8737468719482422, "clean": 0.12669754028320312}
+{"exp": "E2", "case": "lung_075", "focused": -0.24888992309570312, "uniform": 0.6260623931884766, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_078", "n": 1, "lesion": 0.12502288818359375, "clean": 0.1250286102294922}
+{"exp": "E1", "case": "lung_078", "n": 3, "lesion": -0.49840736389160156, "clean": 0.1263141632080078}
+{"exp": "E1", "case": "lung_078", "n": 5, "lesion": 0.25206565856933594, "clean": -0.2472076416015625}
+{"exp": "E1", "case": "lung_078", "n": 10, "lesion": -0.6223297119140625, "clean": -1.1214008331298828}
+{"exp": "E2", "case": "lung_078", "focused": 0.25206565856933594, "uniform": -0.12114906311035156, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_079", "n": 1, "lesion": -0.12497901916503906, "clean": 0.3750171661376953}
+{"exp": "E1", "case": "lung_079", "n": 3, "lesion": 0.6264801025390625, "clean": 1.0018939971923828}
+{"exp": "E1", "case": "lung_079", "n": 5, "lesion": 0.2521629333496094, "clean": 0.7517528533935547}
+{"exp": "E1", "case": "lung_079", "n": 10, "lesion": 0.2527942657470703, "clean": -0.12198257446289062}
+{"exp": "E2", "case": "lung_079", "focused": 0.2521629333496094, "uniform": 0.8776397705078125, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_080", "n": 1, "lesion": -1.4999713897705078, "clean": -4.249980926513672}
+{"exp": "E1", "case": "lung_080", "n": 3, "lesion": 0.1271533966064453, "clean": 0.2506694793701172}
+{"exp": "E1", "case": "lung_080", "n": 5, "lesion": -0.2456531524658203, "clean": 0.5029945373535156}
+{"exp": "E1", "case": "lung_080", "n": 10, "lesion": -1.1209373474121094, "clean": -0.37264251708984375}
+{"exp": "E2", "case": "lung_080", "focused": -0.2456531524658203, "uniform": -0.3719921112060547, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_081", "n": 1, "lesion": -1.2499713897705078, "clean": -5.374990463256836}
+{"exp": "E1", "case": "lung_081", "n": 3, "lesion": -1.9980754852294922, "clean": -0.4972343444824219}
+{"exp": "E1", "case": "lung_081", "n": 5, "lesion": -1.9964885711669922, "clean": 0.7533893585205078}
+{"exp": "E1", "case": "lung_081", "n": 10, "lesion": -2.371002197265625, "clean": 0.37935447692871094}
+{"exp": "E2", "case": "lung_081", "focused": -1.9964885711669922, "uniform": -0.9955539703369141, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_083", "n": 1, "lesion": 1.625020980834961, "clean": -2.124958038330078}
+{"exp": "E1", "case": "lung_083", "n": 3, "lesion": -0.248992919921875, "clean": 0.12620925903320312}
+{"exp": "E1", "case": "lung_083", "n": 5, "lesion": -0.248504638671875, "clean": 1.2524261474609375}
+{"exp": "E1", "case": "lung_083", "n": 10, "lesion": -0.2484607696533203, "clean": 0.0038509368896484375}
+{"exp": "E2", "case": "lung_083", "focused": -0.248504638671875, "uniform": 0.5016078948974609, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_084", "n": 1, "lesion": 0.6250228881835938, "clean": -1.374969482421875}
+{"exp": "E1", "case": "lung_084", "n": 3, "lesion": 0.126617431640625, "clean": 1.3761482238769531}
+{"exp": "E1", "case": "lung_084", "n": 5, "lesion": 0.2522735595703125, "clean": 1.0022506713867188}
+{"exp": "E1", "case": "lung_084", "n": 10, "lesion": -0.4980354309082031, "clean": 0.0031566619873046875}
+{"exp": "E2", "case": "lung_084", "focused": 0.2522735595703125, "uniform": 0.2530021667480469, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_086", "n": 1, "lesion": 1.000020980834961, "clean": 0.12502098083496094}
+{"exp": "E1", "case": "lung_086", "n": 3, "lesion": 1.1281204223632812, "clean": 0.12661361694335938}
+{"exp": "E1", "case": "lung_086", "n": 5, "lesion": 0.7518215179443359, "clean": -0.24817276000976562}
+{"exp": "E1", "case": "lung_086", "n": 10, "lesion": -0.3722095489501953, "clean": -0.9968280792236328}
+{"exp": "E2", "case": "lung_086", "focused": 0.7518215179443359, "uniform": 0.7531261444091797, "uniform_hits_lesion": true}
+{"exp": "E1", "case": "lung_092", "n": 1, "lesion": -0.12497520446777344, "clean": 2.09808349609375e-05}
+{"exp": "E1", "case": "lung_092", "n": 3, "lesion": -1.122873306274414, "clean": 0.3769073486328125}
+{"exp": "E1", "case": "lung_092", "n": 5, "lesion": -0.7472496032714844, "clean": 0.00238037109375}
+{"exp": "E1", "case": "lung_092", "n": 10, "lesion": -0.8719654083251953, "clean": -0.996917724609375}
+{"exp": "E2", "case": "lung_092", "focused": -0.7472496032714844, "uniform": -1.2443428039550781, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_093", "n": 1, "lesion": 0.5000228881835938, "clean": 0.8750228881835938}
+{"exp": "E1", "case": "lung_093", "n": 3, "lesion": 0.6267738342285156, "clean": 0.375946044921875}
+{"exp": "E1", "case": "lung_093", "n": 5, "lesion": 0.37689971923828125, "clean": 0.8762493133544922}
+{"exp": "E1", "case": "lung_093", "n": 10, "lesion": -0.7482566833496094, "clean": 0.001373291015625}
+{"exp": "E2", "case": "lung_093", "focused": 0.37689971923828125, "uniform": 0.2523365020751953, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_095", "n": 1, "lesion": 0.37502288818359375, "clean": -0.624969482421875}
+{"exp": "E1", "case": "lung_095", "n": 3, "lesion": -0.49875450134277344, "clean": -0.3730926513671875}
+{"exp": "E1", "case": "lung_095", "n": 5, "lesion": -0.49799537658691406, "clean": -0.6229343414306641}
+{"exp": "E1", "case": "lung_095", "n": 10, "lesion": -1.1228446960449219, "clean": -1.4960269927978516}
+{"exp": "E2", "case": "lung_095", "focused": -0.49799537658691406, "uniform": -0.9950714111328125, "uniform_hits_lesion": false}
+{"exp": "E1", "case": "lung_096", "n": 1, "lesion": -1.6249732971191406, "clean": -0.24997520446777344}
+{"exp": "E1", "case": "lung_096", "n": 3, "lesion": -1.747537612915039, "clean": -1.8738327026367188}
+{"exp": "E1", "case": "lung_096", "n": 5, "lesion": -1.996856689453125, "clean": -1.3730220794677734}
+{"exp": "E1", "case": "lung_096", "n": 10, "lesion": -2.2468338012695312, "clean": -2.621826171875}
+{"exp": "E2", "case": "lung_096", "focused": -1.996856689453125, "uniform": -0.2476482391357422, "uniform_hits_lesion": false}
+{"exp": "E3", "case": "lung_001", "first_is_lesion": true, "margin": -0.6247482299804688, "correct": false}
+{"exp": "E3", "case": "lung_003", "first_is_lesion": false, "margin": -0.4996967315673828, "correct": true}
+{"exp": "E3", "case": "lung_004", "first_is_lesion": true, "margin": -1.4997291564941406, "correct": false}
+{"exp": "E3", "case": "lung_005", "first_is_lesion": false, "margin": -2.6249160766601562, "correct": true}
+{"exp": "E3", "case": "lung_006", "first_is_lesion": true, "margin": -0.8748683929443359, "correct": false}
+{"exp": "E3", "case": "lung_009", "first_is_lesion": false, "margin": -1.4998912811279297, "correct": true}
+{"exp": "E3", "case": "lung_010", "first_is_lesion": true, "margin": 0.12520790100097656, "correct": true}
+{"exp": "E3", "case": "lung_014", "first_is_lesion": false, "margin": -1.9998798370361328, "correct": true}
+{"exp": "E3", "case": "lung_015", "first_is_lesion": true, "margin": -0.4998798370361328, "correct": false}
+{"exp": "E3", "case": "lung_016", "first_is_lesion": false, "margin": -2.499858856201172, "correct": true}
+{"exp": "E3", "case": "lung_018", "first_is_lesion": true, "margin": -0.249725341796875, "correct": false}
+{"exp": "E3", "case": "lung_020", "first_is_lesion": false, "margin": -1.6247577667236328, "correct": true}
+{"exp": "E3", "case": "lung_022", "first_is_lesion": true, "margin": -1.2498722076416016, "correct": false}
+{"exp": "E3", "case": "lung_023", "first_is_lesion": false, "margin": -1.1247196197509766, "correct": true}
+{"exp": "E3", "case": "lung_025", "first_is_lesion": true, "margin": 0.0002422332763671875, "correct": true}
+{"exp": "E3", "case": "lung_026", "first_is_lesion": false, "margin": -0.8747386932373047, "correct": true}
+{"exp": "E3", "case": "lung_027", "first_is_lesion": true, "margin": 0.2502937316894531, "correct": true}
+{"exp": "E3", "case": "lung_028", "first_is_lesion": false, "margin": -1.9998626708984375, "correct": true}
+{"exp": "E3", "case": "lung_029", "first_is_lesion": true, "margin": -1.9998111724853516, "correct": false}
+{"exp": "E3", "case": "lung_031", "first_is_lesion": false, "margin": -0.4997272491455078, "correct": true}
+{"exp": "E3", "case": "lung_033", "first_is_lesion": true, "margin": 0.8751449584960938, "correct": true}
+{"exp": "E3", "case": "lung_034", "first_is_lesion": false, "margin": -1.9998054504394531, "correct": true}
+{"exp": "E3", "case": "lung_036", "first_is_lesion": true, "margin": -1.4997425079345703, "correct": false}
+{"exp": "E3", "case": "lung_037", "first_is_lesion": false, "margin": -0.24984169006347656, "correct": true}
+{"exp": "E3", "case": "lung_038", "first_is_lesion": true, "margin": -0.4998130798339844, "correct": false}
+{"exp": "E3", "case": "lung_041", "first_is_lesion": false, "margin": -1.9998893737792969, "correct": true}
+{"exp": "E3", "case": "lung_042", "first_is_lesion": true, "margin": -0.24983787536621094, "correct": false}
+{"exp": "E3", "case": "lung_043", "first_is_lesion": false, "margin": -1.7498855590820312, "correct": true}
+{"exp": "E3", "case": "lung_044", "first_is_lesion": true, "margin": -1.6247901916503906, "correct": false}
+{"exp": "E3", "case": "lung_045", "first_is_lesion": false, "margin": -0.24966049194335938, "correct": true}
+{"exp": "E3", "case": "lung_046", "first_is_lesion": true, "margin": -1.1246871948242188, "correct": false}
+{"exp": "E3", "case": "lung_047", "first_is_lesion": false, "margin": -0.49990272521972656, "correct": true}
+{"exp": "E3", "case": "lung_048", "first_is_lesion": true, "margin": -0.12478256225585938, "correct": false}
+{"exp": "E3", "case": "lung_049", "first_is_lesion": false, "margin": -1.6248130798339844, "correct": true}
+{"exp": "E3", "case": "lung_051", "first_is_lesion": true, "margin": -1.4998626708984375, "correct": false}
+{"exp": "E3", "case": "lung_053", "first_is_lesion": false, "margin": -0.12470626831054688, "correct": true}
+{"exp": "E3", "case": "lung_054", "first_is_lesion": true, "margin": -1.7497386932373047, "correct": false}
+{"exp": "E3", "case": "lung_055", "first_is_lesion": false, "margin": -0.7496662139892578, "correct": true}
+{"exp": "E3", "case": "lung_058", "first_is_lesion": true, "margin": -0.6246852874755859, "correct": false}
+{"exp": "E3", "case": "lung_059", "first_is_lesion": false, "margin": 0.0003814697265625, "correct": false}
+{"exp": "E3", "case": "lung_061", "first_is_lesion": true, "margin": -0.12460899353027344, "correct": false}
+{"exp": "E3", "case": "lung_062", "first_is_lesion": false, "margin": -0.6245746612548828, "correct": true}
+{"exp": "E3", "case": "lung_064", "first_is_lesion": true, "margin": -0.4996662139892578, "correct": false}
+{"exp": "E3", "case": "lung_065", "first_is_lesion": false, "margin": -0.37477684020996094, "correct": true}
+{"exp": "E3", "case": "lung_066", "first_is_lesion": true, "margin": -0.37471771240234375, "correct": false}
+{"exp": "E3", "case": "lung_069", "first_is_lesion": false, "margin": -0.9997482299804688, "correct": true}
+{"exp": "E3", "case": "lung_070", "first_is_lesion": true, "margin": -0.12471771240234375, "correct": false}
+{"exp": "E3", "case": "lung_071", "first_is_lesion": false, "margin": -0.7496719360351562, "correct": true}
+{"exp": "E3", "case": "lung_073", "first_is_lesion": true, "margin": 0.2504005432128906, "correct": true}
+{"exp": "E3", "case": "lung_074", "first_is_lesion": false, "margin": -0.24980926513671875, "correct": true}
+{"exp": "E3", "case": "lung_075", "first_is_lesion": true, "margin": -1.374908447265625, "correct": false}
+{"exp": "E3", "case": "lung_078", "first_is_lesion": false, "margin": -2.9998855590820312, "correct": true}
+{"exp": "E3", "case": "lung_079", "first_is_lesion": true, "margin": -1.1246967315673828, "correct": false}
+{"exp": "E3", "case": "lung_080", "first_is_lesion": false, "margin": -1.3748111724853516, "correct": true}
+{"exp": "E3", "case": "lung_081", "first_is_lesion": true, "margin": -1.6248016357421875, "correct": false}
+{"exp": "E3", "case": "lung_083", "first_is_lesion": false, "margin": -0.12470436096191406, "correct": true}
+{"exp": "E3", "case": "lung_084", "first_is_lesion": true, "margin": -1.9997615814208984, "correct": false}
+{"exp": "E3", "case": "lung_086", "first_is_lesion": false, "margin": -2.2498035430908203, "correct": true}
+{"exp": "E3", "case": "lung_092", "first_is_lesion": true, "margin": 0.12532615661621094, "correct": true}
+{"exp": "E3", "case": "lung_093", "first_is_lesion": false, "margin": -1.9997539520263672, "correct": true}
+{"exp": "E3", "case": "lung_095", "first_is_lesion": true, "margin": 0.1253528594970703, "correct": true}
+{"exp": "E3", "case": "lung_096", "first_is_lesion": false, "margin": 0.250213623046875, "correct": false}
+{"exp": "E4", "case": "lung_001", "win_lesion": -0.9989795684814453, "win_clean": -0.6241703033447266, "sli_lesion": 0.000885009765625, "sli_clean": 0.37523841857910156}
+{"exp": "E4", "case": "lung_003", "win_lesion": -0.24847984313964844, "win_clean": -2.1230716705322266, "sli_lesion": -1.7475242614746094, "sli_clean": -1.246856689453125}
+{"exp": "E4", "case": "lung_004", "win_lesion": -0.9984092712402344, "win_clean": -0.8739280700683594, "sli_lesion": -0.6226615905761719, "sli_clean": -0.6236057281494141}
+{"exp": "E4", "case": "lung_005", "win_lesion": 0.37514495849609375, "win_clean": -1.8740959167480469, "sli_lesion": 0.000240325927734375, "sli_clean": -0.8747234344482422}
+{"exp": "E4", "case": "lung_006", "win_lesion": -1.1242904663085938, "win_clean": -0.8743400573730469, "sli_lesion": -1.1233997344970703, "sli_clean": 0.37601470947265625}
+{"exp": "E4", "case": "lung_009", "win_lesion": 0.6253986358642578, "win_clean": -0.12470436096191406, "sli_lesion": 0.8753986358642578, "sli_clean": -0.24967002868652344}
+{"exp": "E4", "case": "lung_010", "win_lesion": -0.6234092712402344, "win_clean": -0.9975318908691406, "sli_lesion": 0.2513236999511719, "sli_clean": 0.12682342529296875}
+{"exp": "E4", "case": "lung_014", "win_lesion": -0.12420272827148438, "win_clean": 0.0006198883056640625, "sli_lesion": -0.37433815002441406, "sli_clean": 0.25082969665527344}
+{"exp": "E4", "case": "lung_015", "win_lesion": 0.2502918243408203, "win_clean": -1.249032974243164, "sli_lesion": -0.6244449615478516, "sli_clean": 0.2513694763183594}
+{"exp": "E4", "case": "lung_016", "win_lesion": -0.6238498687744141, "win_clean": -1.4980831146240234, "sli_lesion": 0.376373291015625, "sli_clean": -1.3725566864013672}
+{"exp": "E4", "case": "lung_018", "win_lesion": -0.12396621704101562, "win_clean": 0.001018524169921875, "sli_lesion": 0.12676048278808594, "sli_clean": -0.8735828399658203}
+{"exp": "E4", "case": "lung_020", "win_lesion": 0.2506904602050781, "win_clean": -0.24933815002441406, "sli_lesion": -0.2492542266845703, "sli_clean": -0.7495689392089844}
+{"exp": "E4", "case": "lung_022", "win_lesion": -1.1238479614257812, "win_clean": -1.4994277954101562, "sli_lesion": 0.12596893310546875, "sli_clean": 0.8765525817871094}
+{"exp": "E4", "case": "lung_023", "win_lesion": -0.4994182586669922, "win_clean": -0.24885940551757812, "sli_lesion": 0.12557220458984375, "sli_clean": 0.2515525817871094}
+{"exp": "E4", "case": "lung_025", "win_lesion": -0.8730735778808594, "win_clean": 0.2516956329345703, "sli_lesion": -0.7484035491943359, "sli_clean": 0.37799072265625}
+{"exp": "E4", "case": "lung_026", "win_lesion": 0.501556396484375, "win_clean": -0.6231765747070312, "sli_lesion": -0.6228752136230469, "sli_clean": 0.3771533966064453}
+{"exp": "E4", "case": "lung_027", "win_lesion": -0.6235084533691406, "win_clean": -0.9985332489013672, "sli_lesion": -0.1239776611328125, "sli_clean": 0.1270008087158203}
+{"exp": "E4", "case": "lung_028", "win_lesion": -1.1233158111572266, "win_clean": -1.8684120178222656, "sli_lesion": 0.37755393981933594, "sli_clean": -1.8714485168457031}
+{"exp": "E4", "case": "lung_029", "win_lesion": -0.9981231689453125, "win_clean": -1.2489795684814453, "sli_lesion": -0.7476654052734375, "sli_clean": -0.1237945556640625}
+{"exp": "E4", "case": "lung_031", "win_lesion": -0.4987449645996094, "win_clean": -0.24840927124023438, "sli_lesion": 1.2506790161132812, "sli_clean": 0.2509765625}
+{"exp": "E4", "case": "lung_033", "win_lesion": -0.12349891662597656, "win_clean": -2.9978256225585938, "sli_lesion": 0.5015525817871094, "sli_clean": -0.24753379821777344}
+{"exp": "E4", "case": "lung_034", "win_lesion": -1.1234874725341797, "win_clean": -1.873086929321289, "sli_lesion": 0.5017814636230469, "sli_clean": 0.5030498504638672}
+{"exp": "E4", "case": "lung_036", "win_lesion": -0.8735809326171875, "win_clean": -0.6233310699462891, "sli_lesion": -0.123443603515625, "sli_clean": 0.3774394989013672}
+{"exp": "E4", "case": "lung_037", "win_lesion": -1.8743724822998047, "win_clean": 0.00035858154296875, "sli_lesion": -2.2483177185058594, "sli_clean": 0.0007457733154296875}
+{"exp": "E4", "case": "lung_038", "win_lesion": 0.6257553100585938, "win_clean": -0.9993343353271484, "sli_lesion": -0.37383460998535156, "sli_clean": -0.6246242523193359}
+{"exp": "E4", "case": "lung_041", "win_lesion": -0.12352943420410156, "win_clean": -2.1198577880859375, "sli_lesion": 0.0027828216552734375, "sli_clean": -1.6211490631103516}
+{"exp": "E4", "case": "lung_042", "win_lesion": -0.9992408752441406, "win_clean": -1.499542236328125, "sli_lesion": -0.12379074096679688, "sli_clean": 0.6256446838378906}
+{"exp": "E4", "case": "lung_043", "win_lesion": -1.2494640350341797, "win_clean": 0.1255817413330078, "sli_lesion": -0.2489337921142578, "sli_clean": -0.62445068359375}
+{"exp": "E4", "case": "lung_044", "win_lesion": -0.6229972839355469, "win_clean": 0.0016918182373046875, "sli_lesion": -0.9979476928710938, "sli_clean": 0.5029926300048828}
+{"exp": "E4", "case": "lung_045", "win_lesion": -0.6229610443115234, "win_clean": -1.1225433349609375, "sli_lesion": -0.8732242584228516, "sli_clean": 0.2526130676269531}
+{"exp": "E4", "case": "lung_046", "win_lesion": -0.6226882934570312, "win_clean": -0.24875831604003906, "sli_lesion": -0.24831199645996094, "sli_clean": 0.376800537109375}
+{"exp": "E4", "case": "lung_047", "win_lesion": -0.24891281127929688, "win_clean": -5.622556686401367, "sli_lesion": -0.12357711791992188, "sli_clean": -0.8739604949951172}
+{"exp": "E4", "case": "lung_048", "win_lesion": 0.001007080078125, "win_clean": -0.7481269836425781, "sli_lesion": -0.12391471862792969, "sli_clean": 0.25044822692871094}
+{"exp": "E4", "case": "lung_049", "win_lesion": -0.748077392578125, "win_clean": 0.0007038116455078125, "sli_lesion": 1.0024433135986328, "sli_clean": 1.501852035522461}
+{"exp": "E4", "case": "lung_051", "win_lesion": -1.2493705749511719, "win_clean": -1.99951171875, "sli_lesion": -1.7491378784179688, "sli_clean": -0.49920654296875}
+{"exp": "E4", "case": "lung_053", "win_lesion": -1.371419906616211, "win_clean": -1.1223468780517578, "sli_lesion": -0.49765968322753906, "sli_clean": -0.4976158142089844}
+{"exp": "E4", "case": "lung_054", "win_lesion": -1.2484912872314453, "win_clean": -0.6235923767089844, "sli_lesion": -0.9980697631835938, "sli_clean": 1.0010185241699219}
+{"exp": "E4", "case": "lung_055", "win_lesion": 0.25191497802734375, "win_clean": -0.12407875061035156, "sli_lesion": 0.376373291015625, "sli_clean": 1.0016803741455078}
+{"exp": "E4", "case": "lung_058", "win_lesion": -0.7481212615966797, "win_clean": -0.7469978332519531, "sli_lesion": -1.6222057342529297, "sli_clean": 0.00226593017578125}
+{"exp": "E4", "case": "lung_059", "win_lesion": -1.3722000122070312, "win_clean": -0.6231136322021484, "sli_lesion": -0.4979896545410156, "sli_clean": -0.49723243713378906}
+{"exp": "E4", "case": "lung_061", "win_lesion": -1.3729381561279297, "win_clean": -1.372833251953125, "sli_lesion": -1.1231822967529297, "sli_clean": 0.5015544891357422}
+{"exp": "E4", "case": "lung_062", "win_lesion": -0.12344169616699219, "win_clean": -1.1222267150878906, "sli_lesion": -1.122528076171875, "sli_clean": 0.25130653381347656}
+{"exp": "E4", "case": "lung_064", "win_lesion": -0.7483959197998047, "win_clean": -2.373678207397461, "sli_lesion": 0.0012340545654296875, "sli_clean": 1.1258544921875}
+{"exp": "E4", "case": "lung_065", "win_lesion": -0.4993267059326172, "win_clean": -0.12448310852050781, "sli_lesion": 0.0010890960693359375, "sli_clean": 0.001003265380859375}
+{"exp": "E4", "case": "lung_066", "win_lesion": -0.4987812042236328, "win_clean": -0.9979591369628906, "sli_lesion": -0.8718547821044922, "sli_clean": -1.498086929321289}
+{"exp": "E4", "case": "lung_069", "win_lesion": -0.6233901977539062, "win_clean": -0.9984054565429688, "sli_lesion": -0.24849891662597656, "sli_clean": 0.2524299621582031}
+{"exp": "E4", "case": "lung_070", "win_lesion": -0.4981727600097656, "win_clean": -0.24862289428710938, "sli_lesion": -0.3727397918701172, "sli_clean": 1.3778839111328125}
+{"exp": "E4", "case": "lung_071", "win_lesion": -0.8738250732421875, "win_clean": -0.8731803894042969, "sli_lesion": -0.9986839294433594, "sli_clean": 0.8759937286376953}
+{"exp": "E4", "case": "lung_073", "win_lesion": -0.498199462890625, "win_clean": -0.8725547790527344, "sli_lesion": -0.6230907440185547, "sli_clean": 1.752328872680664}
+{"exp": "E4", "case": "lung_074", "win_lesion": -1.7496452331542969, "win_clean": -0.6247272491455078, "sli_lesion": -0.4997215270996094, "sli_clean": -0.7498893737792969}
+{"exp": "E4", "case": "lung_075", "win_lesion": -0.6247615814208984, "win_clean": 0.12514686584472656, "sli_lesion": 0.00031280517578125, "sli_clean": 1.2501029968261719}
+{"exp": "E4", "case": "lung_078", "win_lesion": -0.2492351531982422, "win_clean": -1.2489700317382812, "sli_lesion": -0.49840736389160156, "sli_clean": 0.1263141632080078}
+{"exp": "E4", "case": "lung_079", "win_lesion": -0.3729972839355469, "win_clean": -0.24843788146972656, "sli_lesion": 0.6264801025390625, "sli_clean": 1.0018939971923828}
+{"exp": "E4", "case": "lung_080", "win_lesion": -0.6238365173339844, "win_clean": -0.3745136260986328, "sli_lesion": 0.1271533966064453, "sli_clean": 0.2506694793701172}
+{"exp": "E4", "case": "lung_081", "win_lesion": -1.247222900390625, "win_clean": -0.6225490570068359, "sli_lesion": -1.9980754852294922, "sli_clean": -0.4972343444824219}
+{"exp": "E4", "case": "lung_083", "win_lesion": 0.3755474090576172, "win_clean": -0.374053955078125, "sli_lesion": -0.248992919921875, "sli_clean": 0.12620925903320312}
+{"exp": "E4", "case": "lung_084", "win_lesion": -0.2486133575439453, "win_clean": -0.7490253448486328, "sli_lesion": 0.126617431640625, "sli_clean": 1.3761482238769531}
+{"exp": "E4", "case": "lung_086", "win_lesion": 0.5007133483886719, "win_clean": -0.8735809326171875, "sli_lesion": 1.1281204223632812, "sli_clean": 0.12661361694335938}
+{"exp": "E4", "case": "lung_092", "win_lesion": -0.2484416961669922, "win_clean": -0.9981155395507812, "sli_lesion": -1.122873306274414, "sli_clean": 0.3769073486328125}
+{"exp": "E4", "case": "lung_093", "win_lesion": 0.12638092041015625, "win_clean": -1.2488327026367188, "sli_lesion": 0.6267738342285156, "sli_clean": 0.375946044921875}
+{"exp": "E4", "case": "lung_095", "win_lesion": -0.4992408752441406, "win_clean": -0.7481842041015625, "sli_lesion": -0.49875450134277344, "sli_clean": -0.3730926513671875}
+{"exp": "E4", "case": "lung_096", "win_lesion": -1.12359619140625, "win_clean": -0.873748779296875, "sli_lesion": -1.747537612915039, "sli_clean": -1.8738327026367188}

@@ -1,0 +1,30 @@
+{
+ "1": {
+  "auroc_ipsi_vs_contra": 0.5671453766691862,
+  "n_cases": 63,
+  "mean_ipsi": 1.0774052029564267,
+  "mean_contra": 0.8670873490590898,
+  "paired_win_rate": 0.5396825396825397
+ },
+ "3": {
+  "auroc_ipsi_vs_contra": 0.5869236583522298,
+  "n_cases": 63,
+  "mean_ipsi": 0.00020662943522135416,
+  "mean_contra": -0.21207591465541295,
+  "paired_win_rate": 0.6031746031746031
+ },
+ "5": {
+  "auroc_ipsi_vs_contra": 0.6278659611992945,
+  "n_cases": 63,
+  "mean_ipsi": 0.10206128680516803,
+  "mean_contra": -0.1498943813263424,
+  "paired_win_rate": 0.6825396825396826
+ },
+ "10": {
+  "auroc_ipsi_vs_contra": 0.6336608717561099,
+  "n_cases": 63,
+  "mean_ipsi": -0.3499979594397166,
+  "mean_contra": -0.6039222535632905,
+  "paired_win_rate": 0.6984126984126984
+ }
+}

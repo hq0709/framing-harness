@@ -1,0 +1,77 @@
+{
+ "cases": 63,
+ "levels": 252,
+ "scales": [
+  512,
+  256,
+  128,
+  64
+ ],
+ "median_tumour_px": 222.0,
+ "by_scale": {
+  "512": {
+   "magnification": 0.88,
+   "median_apparent_frac": 0.00084686279296875,
+   "absolute_auroc": 0.5826877047115142,
+   "comparison_auroc": 0.5227780927185689,
+   "absolute_shift": 0.3105152599395268,
+   "absolute_wilcoxon_p": 1.466262404669039e-12,
+   "comparison_wilcoxon_p": 0.07908499561333693,
+   "says_yes_real": 0.7063492063492064,
+   "says_yes_cf": 0.5912698412698413
+  },
+  "256": {
+   "magnification": 1.75,
+   "median_apparent_frac": 0.003387451171875,
+   "absolute_auroc": 0.5888447971781305,
+   "comparison_auroc": 0.5867189468379944,
+   "absolute_shift": 0.341764041355678,
+   "absolute_wilcoxon_p": 5.250433141784376e-11,
+   "comparison_wilcoxon_p": 4.480946439777158e-10,
+   "says_yes_real": 0.9325396825396826,
+   "says_yes_cf": 0.9087301587301587
+  },
+  "128": {
+   "magnification": 3.5,
+   "median_apparent_frac": 0.0135498046875,
+   "absolute_auroc": 0.5719324766943814,
+   "comparison_auroc": 0.5794595616024187,
+   "absolute_shift": 0.2748017159719316,
+   "absolute_wilcoxon_p": 2.4617907356590726e-08,
+   "comparison_wilcoxon_p": 1.5771274734686276e-08,
+   "says_yes_real": 0.6666666666666666,
+   "says_yes_cf": 0.6071428571428571
+  },
+  "64": {
+   "magnification": 7.0,
+   "median_apparent_frac": 0.05419921875,
+   "absolute_auroc": 0.5915532879818595,
+   "comparison_auroc": 0.5552957294028723,
+   "absolute_shift": 0.17460174409169998,
+   "absolute_wilcoxon_p": 0.0001881102808333422,
+   "comparison_wilcoxon_p": 0.0001881102808333422,
+   "says_yes_real": 0.10317460317460317,
+   "says_yes_cf": 0.023809523809523808
+  }
+ },
+ "headline": {
+  "full_slice_auroc": 0.5826877047115142,
+  "best_scale": 64,
+  "best_auroc": 0.5915532879818595,
+  "gain": 0.008865583270345256
+ },
+ "size_interaction": {
+  "small": {
+   "512": 0.5225812547241119,
+   "256": 0.516880826404636,
+   "128": 0.5182980599647267,
+   "64": 0.5559964726631393
+  },
+  "large": {
+   "512": 0.639392794154699,
+   "256": 0.6593600403124212,
+   "128": 0.6250314940791132,
+   "64": 0.6255983875031494
+  }
+ }
+}

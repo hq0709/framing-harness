@@ -1,0 +1,11 @@
+# Pinned loosely: any recent build of these works. The readout uses AutoModelForImageTextToText, which
+# needs transformers >= 4.49.
+torch>=2.4
+transformers>=4.49
+accelerate
+pillow
+numpy
+scipy
+nibabel
+datasets
+huggingface_hub

@@ -1,0 +1,60 @@
+{
+ "cases": 63,
+ "levels_read": 378,
+ "pad": 8,
+ "mean_tumour_px": 586.5899470899471,
+ "per_level_grounding_auroc": {
+  "absolute": 0.5688425575991714,
+  "comparison": 0.5458483805044652
+ },
+ "says_yes_rate": {
+  "absolute_real": 0.5793650793650794,
+  "absolute_cf": 0.5079365079365079
+ },
+ "mean_shift_when_erased": {
+  "absolute": 0.2533065402318561,
+  "comparison_oriented": 0.18452287603307654
+ },
+ "accumulation": {
+  "1": {
+   "n_cases": 63,
+   "comparison_auroc": 0.4852607709750567,
+   "absolute_auroc": 0.47896195515243134,
+   "comparison_wilcoxon_p": 0.6157908987510637,
+   "side_acc": 0.6666666666666666,
+   "side_binom_p": 0.005570703707652537
+  },
+  "2": {
+   "n_cases": 63,
+   "comparison_auroc": 0.5312421264802217,
+   "absolute_auroc": 0.5487528344671202,
+   "comparison_wilcoxon_p": 0.05495132320968821,
+   "side_acc": 0.6666666666666666,
+   "side_binom_p": 0.005570703707652537
+  },
+  "3": {
+   "n_cases": 63,
+   "comparison_auroc": 0.5414462081128748,
+   "absolute_auroc": 0.592214663643235,
+   "comparison_wilcoxon_p": 0.017637414709213813,
+   "side_acc": 0.6507936507936508,
+   "side_binom_p": 0.011287486336628592
+  },
+  "4": {
+   "n_cases": 63,
+   "comparison_auroc": 0.5925925925925926,
+   "absolute_auroc": 0.6258503401360545,
+   "comparison_wilcoxon_p": 0.00033796533049244696,
+   "side_acc": 0.6825396825396826,
+   "side_binom_p": 0.002576198521046032
+  },
+  "6": {
+   "n_cases": 63,
+   "comparison_auroc": 0.6064499874023683,
+   "absolute_auroc": 0.6050642479213908,
+   "comparison_wilcoxon_p": 0.00036885204448264557,
+   "side_acc": 0.6190476190476191,
+   "side_binom_p": 0.038462916804804625
+  }
+ }
+}

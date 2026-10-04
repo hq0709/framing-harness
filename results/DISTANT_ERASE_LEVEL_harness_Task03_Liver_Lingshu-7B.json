@@ -1,0 +1,42 @@
+{
+ "task": "Task03_Liver",
+ "organ": "liver",
+ "model": "lingshu-medical-mllm/Lingshu-7B",
+ "scale": 128,
+ "cases": 40,
+ "levels": 120,
+ "median_tumour_px": 1050.5,
+ "median_apparent_pct": 6.4117431640625,
+ "per_level": {
+  "absolute": {
+   "auroc": 0.5157291666666667,
+   "mean_gap": -0.004122018814086914,
+   "wins": "67/120",
+   "wilcoxon_p": 0.3766599023530003
+  },
+  "axial": {
+   "auroc": 0.5062847222222222,
+   "mean_gap": -0.004122018814086914,
+   "wins": "67/120",
+   "wilcoxon_p": 0.3766599023530003
+  }
+ },
+ "says_yes": {
+  "real": 0.125,
+  "cf": 0.05
+ },
+ "per_case_mean_over_levels": {
+  "absolute": {
+   "auroc": 0.519375,
+   "mean_gap": -0.004122018814086937,
+   "wins": "24/40",
+   "wilcoxon_p": 0.49204687935980473
+  },
+  "axial": {
+   "auroc": 0.4971875,
+   "mean_gap": -0.004122018814086914,
+   "wins": "24/40",
+   "wilcoxon_p": 0.49204687935980473
+  }
+ }
+}

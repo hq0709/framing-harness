@@ -1,0 +1,42 @@
+{
+ "task": "Task03_Liver",
+ "organ": "liver",
+ "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+ "scale": 128,
+ "cases": 40,
+ "levels": 120,
+ "median_tumour_px": 1050.5,
+ "median_apparent_pct": 6.4117431640625,
+ "per_level": {
+  "absolute": {
+   "auroc": 0.3382986111111111,
+   "mean_gap": -0.6270837624867757,
+   "wins": "37/120",
+   "wilcoxon_p": 0.9999982078998169
+  },
+  "axial": {
+   "auroc": 0.3441666666666667,
+   "mean_gap": -0.6270837624867757,
+   "wins": "37/120",
+   "wilcoxon_p": 0.9999982078998169
+  }
+ },
+ "says_yes": {
+  "real": 0.008333333333333333,
+  "cf": 0.008333333333333333
+ },
+ "per_case_mean_over_levels": {
+  "absolute": {
+   "auroc": 0.3240625,
+   "mean_gap": -0.6270837624867758,
+   "wins": "13/40",
+   "wilcoxon_p": 0.9982397582198246
+  },
+  "axial": {
+   "auroc": 0.32,
+   "mean_gap": -0.6270837624867758,
+   "wins": "13/40",
+   "wilcoxon_p": 0.9982397582198246
+  }
+ }
+}

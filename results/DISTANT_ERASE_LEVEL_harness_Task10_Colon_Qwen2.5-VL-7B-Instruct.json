@@ -1,0 +1,42 @@
+{
+ "task": "Task10_Colon",
+ "organ": "colon",
+ "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+ "scale": 128,
+ "cases": 40,
+ "levels": 119,
+ "median_tumour_px": 1182.0,
+ "median_apparent_pct": 7.21435546875,
+ "per_level": {
+  "absolute": {
+   "auroc": 0.6596638655462185,
+   "mean_gap": 0.36030735689051013,
+   "wins": "81/119",
+   "wilcoxon_p": 9.398494475913043e-06
+  },
+  "axial": {
+   "auroc": 0.6283101475884472,
+   "mean_gap": 0.36030735689051013,
+   "wins": "81/119",
+   "wilcoxon_p": 9.398494475913043e-06
+  }
+ },
+ "says_yes": {
+  "real": 0.15966386554621848,
+  "cf": 0.06722689075630252
+ },
+ "per_case_mean_over_levels": {
+  "absolute": {
+   "auroc": 0.66875,
+   "mean_gap": 0.3578257878621419,
+   "wins": "30/40",
+   "wilcoxon_p": 0.0027884997971341363
+  },
+  "axial": {
+   "auroc": 0.654375,
+   "mean_gap": 0.3578257878621419,
+   "wins": "30/40",
+   "wilcoxon_p": 0.0027884997971341363
+  }
+ }
+}

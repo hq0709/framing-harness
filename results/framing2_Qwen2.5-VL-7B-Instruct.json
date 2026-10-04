@@ -1,0 +1,167 @@
+{
+ "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+ "pick": "largest",
+ "median_tumour_px": 685.0,
+ "levels": 252,
+ "cases": 63,
+ "framings": 12,
+ "by_framing": {
+  "256|lung|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.9642857142857143,
+   "says_yes_cf": 0.9444444444444444,
+   "balanced_acc": 0.509920634920635,
+   "absolute_auroc": 0.6171028596623834,
+   "side_acc": 0.6468253968253969,
+   "side_p": 1.8267806759345966e-06,
+   "comparison_auroc": 0.6100403124212648
+  },
+  "256|lung|nodule": {
+   "n": 252,
+   "says_yes_real": 0.29365079365079366,
+   "says_yes_cf": 0.10317460317460317,
+   "balanced_acc": 0.5952380952380952,
+   "absolute_auroc": 0.6514235323759133,
+   "side_acc": 0.753968253968254,
+   "side_p": 1.3667914850412982e-16,
+   "comparison_auroc": 0.6189610103300579
+  },
+  "256|soft|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.4642857142857143,
+   "says_yes_cf": 0.2619047619047619,
+   "balanced_acc": 0.6011904761904763,
+   "absolute_auroc": 0.62550390526581,
+   "side_acc": 0.6150793650793651,
+   "side_p": 0.00015604606347281011,
+   "comparison_auroc": 0.6157722348198539
+  },
+  "256|soft|nodule": {
+   "n": 252,
+   "says_yes_real": 0.14285714285714285,
+   "says_yes_cf": 0.01984126984126984,
+   "balanced_acc": 0.5615079365079365,
+   "absolute_auroc": 0.6189846308893928,
+   "side_acc": 0.5714285714285714,
+   "side_p": 0.013635208453614168,
+   "comparison_auroc": 0.586482741244646
+  },
+  "128|lung|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.7341269841269841,
+   "says_yes_cf": 0.5952380952380952,
+   "balanced_acc": 0.5694444444444444,
+   "absolute_auroc": 0.6338104686318972,
+   "side_acc": 0.6746031746031746,
+   "side_p": 1.551525026047232e-08,
+   "comparison_auroc": 0.6451955782312925
+  },
+  "128|lung|nodule": {
+   "n": 252,
+   "says_yes_real": 0.5198412698412699,
+   "says_yes_cf": 0.25,
+   "balanced_acc": 0.6349206349206349,
+   "absolute_auroc": 0.6876810909549005,
+   "side_acc": 0.7619047619047619,
+   "side_p": 1.382135916880314e-17,
+   "comparison_auroc": 0.6497700932224741
+  },
+  "128|soft|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.25793650793650796,
+   "says_yes_cf": 0.05555555555555555,
+   "balanced_acc": 0.6011904761904762,
+   "absolute_auroc": 0.6949168556311414,
+   "side_acc": 0.7619047619047619,
+   "side_p": 1.382135916880314e-17,
+   "comparison_auroc": 0.6839254220206601
+  },
+  "128|soft|nodule": {
+   "n": 252,
+   "says_yes_real": 0.3134920634920635,
+   "says_yes_cf": 0.011904761904761904,
+   "balanced_acc": 0.6507936507936508,
+   "absolute_auroc": 0.7019872763920383,
+   "side_acc": 0.746031746031746,
+   "side_p": 1.2424601938858344e-15,
+   "comparison_auroc": 0.6939956538170824
+  },
+  "64|lung|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.25,
+   "says_yes_cf": 0.03968253968253968,
+   "balanced_acc": 0.6051587301587301,
+   "absolute_auroc": 0.687106324011086,
+   "side_acc": 0.7103174603174603,
+   "side_p": 9.447108671858529e-12,
+   "comparison_auroc": 0.6519589317208365
+  },
+  "64|lung|nodule": {
+   "n": 252,
+   "says_yes_real": 0.26587301587301587,
+   "says_yes_cf": 0.05555555555555555,
+   "balanced_acc": 0.6051587301587301,
+   "absolute_auroc": 0.6728080120937264,
+   "side_acc": 0.7222222222222222,
+   "side_p": 5.730918245420774e-13,
+   "comparison_auroc": 0.6509432476694381
+  },
+  "64|soft|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.027777777777777776,
+   "says_yes_cf": 0.003968253968253968,
+   "balanced_acc": 0.5119047619047619,
+   "absolute_auroc": 0.6515180146132528,
+   "side_acc": 0.6587301587301587,
+   "side_p": 2.622784509012375e-07,
+   "comparison_auroc": 0.6042768959435626
+  },
+  "64|soft|nodule": {
+   "n": 252,
+   "says_yes_real": 0.07539682539682539,
+   "says_yes_cf": 0.0,
+   "balanced_acc": 0.5376984126984127,
+   "absolute_auroc": 0.6839726631393298,
+   "side_acc": 0.7103174603174603,
+   "side_p": 9.447108671858529e-12,
+   "comparison_auroc": 0.6412509448223734
+  }
+ },
+ "swing": {
+  "absolute_says_yes": {
+   "min": 0.027777777777777776,
+   "max": 0.9642857142857143,
+   "std": 0.2610892988750524,
+   "ratio": 34.714285714285715
+  },
+  "matched_side_acc": {
+   "min": 0.5714285714285714,
+   "max": 0.7619047619047619,
+   "std": 0.05912565248314023,
+   "ratio": 1.3333333333333333
+  },
+  "absolute_auroc": {
+   "min": 0.6171028596623834,
+   "max": 0.7019872763920383
+  },
+  "balanced_acc": {
+   "min": 0.509920634920635,
+   "max": 0.6507936507936508
+  }
+ },
+ "axis_effect": {
+  "scale": {
+   "256": 0.4662698412698413,
+   "128": 0.45634920634920634,
+   "64": 0.15476190476190474
+  },
+  "window": {
+   "lung": 0.5046296296296297,
+   "soft": 0.2136243386243386
+  },
+  "phrasing": {
+   "abnormality": 0.4497354497354497,
+   "nodule": 0.2685185185185185
+  }
+ }
+}

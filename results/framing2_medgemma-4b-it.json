@@ -1,0 +1,167 @@
+{
+ "model": "google/medgemma-4b-it",
+ "pick": "largest",
+ "median_tumour_px": 685.0,
+ "levels": 252,
+ "cases": 63,
+ "framings": 12,
+ "by_framing": {
+  "256|lung|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.8571428571428571,
+   "says_yes_cf": 0.24206349206349206,
+   "balanced_acc": 0.8075396825396826,
+   "absolute_auroc": 0.8887550390526581,
+   "side_acc": 0.9285714285714286,
+   "side_p": 2.107358942699567e-49,
+   "comparison_auroc": 0.8404116276140086
+  },
+  "256|lung|nodule": {
+   "n": 252,
+   "says_yes_real": 0.7976190476190477,
+   "says_yes_cf": 0.2698412698412698,
+   "balanced_acc": 0.763888888888889,
+   "absolute_auroc": 0.8314909297052154,
+   "side_acc": 0.9166666666666666,
+   "side_p": 3.3911656239657348e-46,
+   "comparison_auroc": 0.8004771352985639
+  },
+  "256|soft|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.6626984126984127,
+   "says_yes_cf": 0.12698412698412698,
+   "balanced_acc": 0.7678571428571428,
+   "absolute_auroc": 0.8368213025951121,
+   "side_acc": 0.876984126984127,
+   "side_p": 7.905429694896963e-37,
+   "comparison_auroc": 0.8255070546737213
+  },
+  "256|soft|nodule": {
+   "n": 252,
+   "says_yes_real": 0.6507936507936508,
+   "says_yes_cf": 0.18253968253968253,
+   "balanced_acc": 0.7341269841269841,
+   "absolute_auroc": 0.799500818846057,
+   "side_acc": 0.8452380952380952,
+   "side_p": 1.6775410315711345e-30,
+   "comparison_auroc": 0.7849505542957924
+  },
+  "128|lung|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.7896825396825397,
+   "says_yes_cf": 0.11904761904761904,
+   "balanced_acc": 0.8353174603174602,
+   "absolute_auroc": 0.8924949609473419,
+   "side_acc": 0.9285714285714286,
+   "side_p": 2.107358942699567e-49,
+   "comparison_auroc": 0.8780391786344167
+  },
+  "128|lung|nodule": {
+   "n": 252,
+   "says_yes_real": 0.7420634920634921,
+   "says_yes_cf": 0.15873015873015872,
+   "balanced_acc": 0.7916666666666667,
+   "absolute_auroc": 0.8480568153187201,
+   "side_acc": 0.9047619047619048,
+   "side_p": 3.451350679888033e-43,
+   "comparison_auroc": 0.8422067901234568
+  },
+  "128|soft|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.5515873015873016,
+   "says_yes_cf": 0.08333333333333333,
+   "balanced_acc": 0.7341269841269842,
+   "absolute_auroc": 0.7898163895187704,
+   "side_acc": 0.7579365079365079,
+   "side_p": 4.3928801614615504e-17,
+   "comparison_auroc": 0.7562515747039557
+  },
+  "128|soft|nodule": {
+   "n": 252,
+   "says_yes_real": 0.5912698412698413,
+   "says_yes_cf": 0.11507936507936507,
+   "balanced_acc": 0.7380952380952381,
+   "absolute_auroc": 0.7867614638447972,
+   "side_acc": 0.7380952380952381,
+   "side_p": 1.0401111034096314e-14,
+   "comparison_auroc": 0.7409533257747544
+  },
+  "64|lung|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.623015873015873,
+   "says_yes_cf": 0.0873015873015873,
+   "balanced_acc": 0.7678571428571429,
+   "absolute_auroc": 0.8324278785588309,
+   "side_acc": 0.8531746031746031,
+   "side_p": 5.33283883899663e-32,
+   "comparison_auroc": 0.8103347820609725
+  },
+  "64|lung|nodule": {
+   "n": 252,
+   "says_yes_real": 0.6071428571428571,
+   "says_yes_cf": 0.0873015873015873,
+   "balanced_acc": 0.759920634920635,
+   "absolute_auroc": 0.8083427815570673,
+   "side_acc": 0.8253968253968254,
+   "side_p": 5.573396926636112e-27,
+   "comparison_auroc": 0.7945641219450743
+  },
+  "64|soft|abnormality": {
+   "n": 252,
+   "says_yes_real": 0.31746031746031744,
+   "says_yes_cf": 0.01984126984126984,
+   "balanced_acc": 0.6488095238095238,
+   "absolute_auroc": 0.7336309523809523,
+   "side_acc": 0.7817460317460317,
+   "side_p": 3.06879041189319e-20,
+   "comparison_auroc": 0.7306232678256488
+  },
+  "64|soft|nodule": {
+   "n": 252,
+   "says_yes_real": 0.2896825396825397,
+   "says_yes_cf": 0.011904761904761904,
+   "balanced_acc": 0.638888888888889,
+   "absolute_auroc": 0.7863914084152179,
+   "side_acc": 0.7936507936507936,
+   "side_p": 5.974945015270143e-22,
+   "comparison_auroc": 0.7888321995464853
+  }
+ },
+ "swing": {
+  "absolute_says_yes": {
+   "min": 0.2896825396825397,
+   "max": 0.8571428571428571,
+   "std": 0.1684324632011416,
+   "ratio": 2.9589041095890405
+  },
+  "matched_side_acc": {
+   "min": 0.7380952380952381,
+   "max": 0.9285714285714286,
+   "std": 0.06441201367283116,
+   "ratio": 1.2580645161290323
+  },
+  "absolute_auroc": {
+   "min": 0.7336309523809523,
+   "max": 0.8924949609473419
+  },
+  "balanced_acc": {
+   "min": 0.638888888888889,
+   "max": 0.8353174603174602
+  }
+ },
+ "axis_effect": {
+  "scale": {
+   "256": 0.742063492063492,
+   "128": 0.6686507936507936,
+   "64": 0.45932539682539686
+  },
+  "window": {
+   "lung": 0.736111111111111,
+   "soft": 0.5105820105820106
+  },
+  "phrasing": {
+   "abnormality": 0.6335978835978836,
+   "nodule": 0.6130952380952381
+  }
+ }
+}

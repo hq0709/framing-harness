@@ -1,0 +1,165 @@
+{
+ "model": "OpenGVLab/InternVL3-8B-hf",
+ "levels": 126,
+ "cases": 63,
+ "framings": 12,
+ "by_framing": {
+  "256|lung|abnormality": {
+   "n": 126,
+   "says_yes_real": 1.0,
+   "says_yes_cf": 1.0,
+   "balanced_acc": 0.5,
+   "absolute_auroc": 0.48721340388007056,
+   "side_acc": 0.5714285714285714,
+   "side_p": 0.06478806964319318,
+   "comparison_auroc": 0.48144998740236833
+  },
+  "256|lung|nodule": {
+   "n": 126,
+   "says_yes_real": 0.7380952380952381,
+   "says_yes_cf": 0.753968253968254,
+   "balanced_acc": 0.4920634920634921,
+   "absolute_auroc": 0.4737024439405392,
+   "side_acc": 0.5714285714285714,
+   "side_p": 0.06478806964319318,
+   "comparison_auroc": 0.4657974300831444
+  },
+  "256|soft|abnormality": {
+   "n": 126,
+   "says_yes_real": 1.0,
+   "says_yes_cf": 1.0,
+   "balanced_acc": 0.5,
+   "absolute_auroc": 0.5089128243890149,
+   "side_acc": 0.5714285714285714,
+   "side_p": 0.06478806964319318,
+   "comparison_auroc": 0.5050075585789872
+  },
+  "256|soft|nodule": {
+   "n": 126,
+   "says_yes_real": 0.6825396825396826,
+   "says_yes_cf": 0.6904761904761905,
+   "balanced_acc": 0.49603174603174605,
+   "absolute_auroc": 0.5087238599143361,
+   "side_acc": 0.5476190476190477,
+   "side_p": 0.16356148360838954,
+   "comparison_auroc": 0.500755857898715
+  },
+  "128|lung|abnormality": {
+   "n": 126,
+   "says_yes_real": 1.0,
+   "says_yes_cf": 1.0,
+   "balanced_acc": 0.5,
+   "absolute_auroc": 0.4690098261526833,
+   "side_acc": 0.6746031746031746,
+   "side_p": 5.510565555917579e-05,
+   "comparison_auroc": 0.48579617031997985
+  },
+  "128|lung|nodule": {
+   "n": 126,
+   "says_yes_real": 0.873015873015873,
+   "says_yes_cf": 0.9206349206349206,
+   "balanced_acc": 0.4761904761904762,
+   "absolute_auroc": 0.43641345427059713,
+   "side_acc": 0.6031746031746031,
+   "side_p": 0.012771682014891468,
+   "comparison_auroc": 0.46397077349458304
+  },
+  "128|soft|abnormality": {
+   "n": 126,
+   "says_yes_real": 1.0,
+   "says_yes_cf": 1.0,
+   "balanced_acc": 0.5,
+   "absolute_auroc": 0.4963466868228773,
+   "side_acc": 0.5873015873015873,
+   "side_p": 0.03046912630783008,
+   "comparison_auroc": 0.5013227513227513
+  },
+  "128|soft|nodule": {
+   "n": 126,
+   "says_yes_real": 0.7063492063492064,
+   "says_yes_cf": 0.7857142857142857,
+   "balanced_acc": 0.4603174603174604,
+   "absolute_auroc": 0.4630259511211892,
+   "side_acc": 0.5158730158730159,
+   "side_p": 0.39469797234407195,
+   "comparison_auroc": 0.47606449987402366
+  },
+  "64|lung|abnormality": {
+   "n": 126,
+   "says_yes_real": 0.9920634920634921,
+   "says_yes_cf": 0.9841269841269841,
+   "balanced_acc": 0.503968253968254,
+   "absolute_auroc": 0.5654761904761905,
+   "side_acc": 0.7301587301587301,
+   "side_p": 1.1824603610262455e-07,
+   "comparison_auroc": 0.5658856135046612
+  },
+  "64|lung|nodule": {
+   "n": 126,
+   "says_yes_real": 0.8571428571428571,
+   "says_yes_cf": 0.8888888888888888,
+   "balanced_acc": 0.4841269841269842,
+   "absolute_auroc": 0.48544973544973546,
+   "side_acc": 0.5396825396825397,
+   "side_p": 0.2113955670729402,
+   "comparison_auroc": 0.4973230032753842
+  },
+  "64|soft|abnormality": {
+   "n": 126,
+   "says_yes_real": 1.0,
+   "says_yes_cf": 0.9841269841269841,
+   "balanced_acc": 0.5079365079365079,
+   "absolute_auroc": 0.503495842781557,
+   "side_acc": 0.5396825396825397,
+   "side_p": 0.2113955670729402,
+   "comparison_auroc": 0.5004409171075838
+  },
+  "64|soft|nodule": {
+   "n": 126,
+   "says_yes_real": 0.6666666666666666,
+   "says_yes_cf": 0.746031746031746,
+   "balanced_acc": 0.46031746031746024,
+   "absolute_auroc": 0.4640652557319224,
+   "side_acc": 0.4444444444444444,
+   "side_p": 0.9093879695592882,
+   "comparison_auroc": 0.48683547493071305
+  }
+ },
+ "swing": {
+  "absolute_says_yes": {
+   "min": 0.6666666666666666,
+   "max": 1.0,
+   "std": 0.13532689897621142,
+   "ratio": 1.5
+  },
+  "matched_side_acc": {
+   "min": 0.4444444444444444,
+   "max": 0.7301587301587301,
+   "std": 0.06997779565209057,
+   "ratio": 1.6428571428571428
+  },
+  "absolute_auroc": {
+   "min": 0.43641345427059713,
+   "max": 0.5654761904761905
+  },
+  "balanced_acc": {
+   "min": 0.46031746031746024,
+   "max": 0.5079365079365079
+  }
+ },
+ "axis_effect": {
+  "scale": {
+   "256": 0.8551587301587302,
+   "128": 0.8948412698412699,
+   "64": 0.878968253968254
+  },
+  "window": {
+   "lung": 0.9100529100529099,
+   "soft": 0.8425925925925927
+  },
+  "phrasing": {
+   "abnormality": 0.9986772486772487,
+   "nodule": 0.753968253968254
+  }
+ }
+}

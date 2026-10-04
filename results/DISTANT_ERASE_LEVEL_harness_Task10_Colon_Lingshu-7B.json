@@ -1,0 +1,42 @@
+{
+ "task": "Task10_Colon",
+ "organ": "colon",
+ "model": "lingshu-medical-mllm/Lingshu-7B",
+ "scale": 128,
+ "cases": 40,
+ "levels": 119,
+ "median_tumour_px": 1182.0,
+ "median_apparent_pct": 7.21435546875,
+ "per_level": {
+  "absolute": {
+   "auroc": 0.7656238966174705,
+   "mean_gap": 0.6796864741990546,
+   "wins": "95/119",
+   "wilcoxon_p": 1.7375016815934976e-12
+  },
+  "axial": {
+   "auroc": 0.7244191794364805,
+   "mean_gap": 0.6796864741990546,
+   "wins": "95/119",
+   "wilcoxon_p": 1.7375016815934976e-12
+  }
+ },
+ "says_yes": {
+  "real": 0.7899159663865546,
+  "cf": 0.5210084033613446
+ },
+ "per_case_mean_over_levels": {
+  "absolute": {
+   "auroc": 0.78125,
+   "mean_gap": 0.6761058727900187,
+   "wins": "35/40",
+   "wilcoxon_p": 1.3368562576943077e-06
+  },
+  "axial": {
+   "auroc": 0.7725,
+   "mean_gap": 0.6761058727900188,
+   "wins": "35/40",
+   "wilcoxon_p": 1.3368562576943077e-06
+  }
+ }
+}

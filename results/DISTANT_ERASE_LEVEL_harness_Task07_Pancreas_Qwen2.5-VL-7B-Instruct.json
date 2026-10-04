@@ -1,0 +1,42 @@
+{
+ "task": "Task07_Pancreas",
+ "organ": "pancreas",
+ "model": "Qwen/Qwen2.5-VL-7B-Instruct",
+ "scale": 128,
+ "cases": 40,
+ "levels": 120,
+ "median_tumour_px": 681.5,
+ "median_apparent_pct": 4.1595458984375,
+ "per_level": {
+  "absolute": {
+   "auroc": 0.5648263888888889,
+   "mean_gap": 0.1468806266784668,
+   "wins": "62/120",
+   "wilcoxon_p": 0.07980981342298149
+  },
+  "axial": {
+   "auroc": 0.5526041666666667,
+   "mean_gap": 0.1468806266784668,
+   "wins": "62/120",
+   "wilcoxon_p": 0.07980981342298149
+  }
+ },
+ "says_yes": {
+  "real": 0.1,
+  "cf": 0.025
+ },
+ "per_case_mean_over_levels": {
+  "absolute": {
+   "auroc": 0.579375,
+   "mean_gap": 0.14688062667846677,
+   "wins": "22/40",
+   "wilcoxon_p": 0.1913224306754273
+  },
+  "axial": {
+   "auroc": 0.563125,
+   "mean_gap": 0.1468806266784668,
+   "wins": "22/40",
+   "wilcoxon_p": 0.1913224306754273
+  }
+ }
+}

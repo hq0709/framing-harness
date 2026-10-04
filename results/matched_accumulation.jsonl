@@ -1,0 +1,252 @@
+{"case": "lung_001", "n": 1, "ipsilateral": 2.5000171661376953, "contralateral": 1.7500171661376953, "slices": [231]}
+{"case": "lung_001", "n": 3, "ipsilateral": 0.7501659393310547, "contralateral": 0.5001888275146484, "slices": [231, 240, 250]}
+{"case": "lung_001", "n": 5, "ipsilateral": 0.6255893707275391, "contralateral": 0.3758735656738281, "slices": [231, 235, 240, 245, 250]}
+{"case": "lung_001", "n": 10, "ipsilateral": 0.12597274780273438, "contralateral": 0.25122833251953125, "slices": [231, 233, 235, 237, 239, 241, 243, 245, 247, 250]}
+{"case": "lung_003", "n": 1, "ipsilateral": 0.375030517578125, "contralateral": 0.37502479553222656, "slices": [138]}
+{"case": "lung_003", "n": 3, "ipsilateral": 0.2501544952392578, "contralateral": -1.1245975494384766, "slices": [138, 142, 147]}
+{"case": "lung_003", "n": 5, "ipsilateral": 0.5008487701416016, "contralateral": -0.9987564086914062, "slices": [138, 140, 142, 145, 147]}
+{"case": "lung_003", "n": 10, "ipsilateral": -0.1238861083984375, "contralateral": -1.1232719421386719, "slices": [138, 139, 140, 141, 142, 143, 144, 145, 146, 147]}
+{"case": "lung_004", "n": 1, "ipsilateral": 0.7500247955322266, "contralateral": 0.6250267028808594, "slices": [217]}
+{"case": "lung_004", "n": 3, "ipsilateral": -0.249786376953125, "contralateral": 0.000186920166015625, "slices": [217, 224, 231]}
+{"case": "lung_004", "n": 5, "ipsilateral": 0.000576019287109375, "contralateral": -0.2492694854736328, "slices": [217, 221, 224, 227, 231]}
+{"case": "lung_004", "n": 10, "ipsilateral": -0.7492465972900391, "contralateral": -0.8739376068115234, "slices": [217, 219, 220, 222, 223, 225, 226, 228, 229, 231]}
+{"case": "lung_005", "n": 1, "ipsilateral": 1.7500247955322266, "contralateral": 1.5000228881835938, "slices": [155]}
+{"case": "lung_005", "n": 3, "ipsilateral": 0.5001487731933594, "contralateral": -0.1248321533203125, "slices": [155, 167, 180]}
+{"case": "lung_005", "n": 5, "ipsilateral": 0.7505416870117188, "contralateral": 0.2506256103515625, "slices": [155, 161, 167, 174, 180]}
+{"case": "lung_005", "n": 10, "ipsilateral": 0.3760566711425781, "contralateral": -0.12423896789550781, "slices": [155, 158, 161, 163, 166, 169, 172, 174, 177, 180]}
+{"case": "lung_006", "n": 1, "ipsilateral": 1.2500190734863281, "contralateral": 0.6250228881835938, "slices": [447]}
+{"case": "lung_006", "n": 3, "ipsilateral": 0.25012969970703125, "contralateral": -0.3748779296875, "slices": [447, 467, 486]}
+{"case": "lung_006", "n": 5, "ipsilateral": 0.0005321502685546875, "contralateral": -0.12456893920898438, "slices": [447, 457, 467, 476, 486]}
+{"case": "lung_006", "n": 10, "ipsilateral": -0.37419700622558594, "contralateral": -0.874237060546875, "slices": [447, 451, 456, 460, 464, 469, 473, 477, 482, 486]}
+{"case": "lung_009", "n": 1, "ipsilateral": 1.8750152587890625, "contralateral": 1.375020980834961, "slices": [205]}
+{"case": "lung_009", "n": 3, "ipsilateral": 0.1251068115234375, "contralateral": 0.875091552734375, "slices": [205, 235, 264]}
+{"case": "lung_009", "n": 5, "ipsilateral": 0.12563705444335938, "contralateral": 0.12562942504882812, "slices": [205, 220, 235, 249, 264]}
+{"case": "lung_009", "n": 10, "ipsilateral": -0.12422370910644531, "contralateral": -0.4991264343261719, "slices": [205, 212, 218, 225, 231, 238, 244, 251, 257, 264]}
+{"case": "lung_010", "n": 1, "ipsilateral": 1.0000247955322266, "contralateral": 0.5000190734863281, "slices": [87]}
+{"case": "lung_010", "n": 3, "ipsilateral": 0.3752002716064453, "contralateral": -1.249765396118164, "slices": [87, 103, 118]}
+{"case": "lung_010", "n": 5, "ipsilateral": 0.8759078979492188, "contralateral": -0.4989509582519531, "slices": [87, 95, 103, 110, 118]}
+{"case": "lung_010", "n": 10, "ipsilateral": -0.24871063232421875, "contralateral": -0.9988021850585938, "slices": [87, 90, 94, 97, 101, 104, 108, 111, 115, 118]}
+{"case": "lung_014", "n": 1, "ipsilateral": 1.5000152587890625, "contralateral": 0.8750171661376953, "slices": [334]}
+{"case": "lung_014", "n": 3, "ipsilateral": -0.12487983703613281, "contralateral": 0.6251335144042969, "slices": [334, 368, 403]}
+{"case": "lung_014", "n": 5, "ipsilateral": -0.7491321563720703, "contralateral": 0.7507972717285156, "slices": [334, 351, 368, 386, 403]}
+{"case": "lung_014", "n": 10, "ipsilateral": -0.9988784790039062, "contralateral": -0.24857139587402344, "slices": [334, 342, 349, 357, 365, 372, 380, 388, 395, 403]}
+{"case": "lung_015", "n": 1, "ipsilateral": 0.7500190734863281, "contralateral": 0.8750190734863281, "slices": [149]}
+{"case": "lung_015", "n": 3, "ipsilateral": 0.00012969970703125, "contralateral": 1.0001850128173828, "slices": [149, 154, 159]}
+{"case": "lung_015", "n": 5, "ipsilateral": -0.2491474151611328, "contralateral": -0.12391090393066406, "slices": [149, 151, 154, 157, 159]}
+{"case": "lung_015", "n": 10, "ipsilateral": -1.6236400604248047, "contralateral": -0.8738059997558594, "slices": [149, 150, 151, 152, 153, 155, 156, 157, 158, 159]}
+{"case": "lung_016", "n": 1, "ipsilateral": 1.1250228881835938, "contralateral": 3.0517578125e-05, "slices": [145]}
+{"case": "lung_016", "n": 3, "ipsilateral": 0.0002002716064453125, "contralateral": -0.9998092651367188, "slices": [145, 155, 165]}
+{"case": "lung_016", "n": 5, "ipsilateral": 0.2508716583251953, "contralateral": -0.24917984008789062, "slices": [145, 150, 155, 160, 165]}
+{"case": "lung_016", "n": 10, "ipsilateral": -0.12394142150878906, "contralateral": -0.8736381530761719, "slices": [145, 147, 149, 152, 154, 156, 158, 161, 163, 165]}
+{"case": "lung_018", "n": 1, "ipsilateral": 0.5000190734863281, "contralateral": 0.5000190734863281, "slices": [172]}
+{"case": "lung_018", "n": 3, "ipsilateral": -0.49987030029296875, "contralateral": 0.37517738342285156, "slices": [172, 178, 184]}
+{"case": "lung_018", "n": 5, "ipsilateral": 0.00058746337890625, "contralateral": -0.12417793273925781, "slices": [172, 175, 178, 181, 184]}
+{"case": "lung_018", "n": 10, "ipsilateral": -0.37412261962890625, "contralateral": -0.4988555908203125, "slices": [172, 173, 175, 176, 177, 179, 180, 181, 183, 184]}
+{"case": "lung_020", "n": 1, "ipsilateral": 0.12503814697265625, "contralateral": 0.8750228881835938, "slices": [208]}
+{"case": "lung_020", "n": 3, "ipsilateral": 0.1253833770751953, "contralateral": -0.12472915649414062, "slices": [208, 214, 220]}
+{"case": "lung_020", "n": 5, "ipsilateral": 0.0007457733154296875, "contralateral": -0.12404632568359375, "slices": [208, 211, 214, 217, 220]}
+{"case": "lung_020", "n": 10, "ipsilateral": 0.25099754333496094, "contralateral": -0.4988822937011719, "slices": [208, 209, 211, 212, 213, 215, 216, 217, 219, 220]}
+{"case": "lung_022", "n": 1, "ipsilateral": 1.8750114440917969, "contralateral": 1.8750171661376953, "slices": [211]}
+{"case": "lung_022", "n": 3, "ipsilateral": -0.12472152709960938, "contralateral": 1.1252593994140625, "slices": [211, 245, 279]}
+{"case": "lung_022", "n": 5, "ipsilateral": -0.12417793273925781, "contralateral": 1.1261615753173828, "slices": [211, 228, 245, 262, 279]}
+{"case": "lung_022", "n": 10, "ipsilateral": -0.3739452362060547, "contralateral": 0.001201629638671875, "slices": [211, 219, 226, 234, 241, 249, 256, 264, 271, 279]}
+{"case": "lung_023", "n": 1, "ipsilateral": 2.875009536743164, "contralateral": 1.1250190734863281, "slices": [364]}
+{"case": "lung_023", "n": 3, "ipsilateral": 0.2501564025878906, "contralateral": -0.12482070922851562, "slices": [364, 386, 407]}
+{"case": "lung_023", "n": 5, "ipsilateral": 0.37552642822265625, "contralateral": -0.6241817474365234, "slices": [364, 375, 386, 396, 407]}
+{"case": "lung_023", "n": 10, "ipsilateral": 0.12580108642578125, "contralateral": -1.1240711212158203, "slices": [364, 369, 374, 378, 383, 388, 393, 397, 402, 407]}
+{"case": "lung_025", "n": 1, "ipsilateral": 1.1250152587890625, "contralateral": -0.499969482421875, "slices": [219]}
+{"case": "lung_025", "n": 3, "ipsilateral": -0.8748264312744141, "contralateral": -2.124757766723633, "slices": [219, 228, 237]}
+{"case": "lung_025", "n": 5, "ipsilateral": -0.49922752380371094, "contralateral": -1.6241111755371094, "slices": [219, 223, 228, 233, 237]}
+{"case": "lung_025", "n": 10, "ipsilateral": -1.3740005493164062, "contralateral": -1.8740501403808594, "slices": [219, 221, 223, 225, 227, 229, 231, 233, 235, 237]}
+{"case": "lung_026", "n": 1, "ipsilateral": 0.750030517578125, "contralateral": 1.3750152587890625, "slices": [155]}
+{"case": "lung_026", "n": 3, "ipsilateral": 0.37514495849609375, "contralateral": 0.5001468658447266, "slices": [155, 170, 185]}
+{"case": "lung_026", "n": 5, "ipsilateral": 0.25090789794921875, "contralateral": 0.5006484985351562, "slices": [155, 163, 170, 177, 185]}
+{"case": "lung_026", "n": 10, "ipsilateral": -0.3735542297363281, "contralateral": 0.001102447509765625, "slices": [155, 158, 162, 165, 168, 172, 175, 178, 182, 185]}
+{"case": "lung_027", "n": 1, "ipsilateral": 1.750020980834961, "contralateral": 1.625020980834961, "slices": [77]}
+{"case": "lung_027", "n": 3, "ipsilateral": 0.5001392364501953, "contralateral": -0.499755859375, "slices": [77, 91, 104]}
+{"case": "lung_027", "n": 5, "ipsilateral": 0.6253910064697266, "contralateral": 0.1258258819580078, "slices": [77, 84, 91, 97, 104]}
+{"case": "lung_027", "n": 10, "ipsilateral": 0.00087738037109375, "contralateral": -0.6240730285644531, "slices": [77, 80, 83, 86, 89, 92, 95, 98, 101, 104]}
+{"case": "lung_028", "n": 1, "ipsilateral": 0.12504005432128906, "contralateral": 1.250020980834961, "slices": [87]}
+{"case": "lung_028", "n": 3, "ipsilateral": 1.8750953674316406, "contralateral": 0.25024986267089844, "slices": [87, 128, 164]}
+{"case": "lung_028", "n": 5, "ipsilateral": 1.2507038116455078, "contralateral": 0.3759613037109375, "slices": [87, 110, 128, 146, 164]}
+{"case": "lung_028", "n": 10, "ipsilateral": 0.2508983612060547, "contralateral": -0.748626708984375, "slices": [87, 100, 108, 116, 124, 132, 140, 148, 156, 164]}
+{"case": "lung_029", "n": 1, "ipsilateral": 1.0000228881835938, "contralateral": 0.3750343322753906, "slices": [204]}
+{"case": "lung_029", "n": 3, "ipsilateral": -0.7497692108154297, "contralateral": -0.7497959136962891, "slices": [204, 212, 220]}
+{"case": "lung_029", "n": 5, "ipsilateral": -0.49873924255371094, "contralateral": -0.6242847442626953, "slices": [204, 208, 212, 216, 220]}
+{"case": "lung_029", "n": 10, "ipsilateral": -0.4980602264404297, "contralateral": -0.87353515625, "slices": [204, 206, 208, 209, 211, 213, 215, 216, 218, 220]}
+{"case": "lung_031", "n": 1, "ipsilateral": 2.0000228881835938, "contralateral": 2.1250152587890625, "slices": [216]}
+{"case": "lung_031", "n": 3, "ipsilateral": 0.8750782012939453, "contralateral": 0.6251220703125, "slices": [216, 250, 285]}
+{"case": "lung_031", "n": 5, "ipsilateral": 0.7505531311035156, "contralateral": 0.7507076263427734, "slices": [216, 233, 250, 268, 285]}
+{"case": "lung_031", "n": 10, "ipsilateral": 0.0011577606201171875, "contralateral": 0.0011119842529296875, "slices": [216, 224, 231, 239, 247, 254, 262, 270, 277, 285]}
+{"case": "lung_033", "n": 1, "ipsilateral": 2.1250152587890625, "contralateral": 0.5000267028808594, "slices": [139]}
+{"case": "lung_033", "n": 3, "ipsilateral": 1.0001659393310547, "contralateral": -0.24982261657714844, "slices": [139, 159, 180]}
+{"case": "lung_033", "n": 5, "ipsilateral": 0.6261634826660156, "contralateral": 0.00064849853515625, "slices": [139, 149, 159, 170, 180]}
+{"case": "lung_033", "n": 10, "ipsilateral": 0.3765697479248047, "contralateral": -0.7488670349121094, "slices": [139, 144, 148, 153, 157, 162, 166, 171, 175, 180]}
+{"case": "lung_034", "n": 1, "ipsilateral": 0.3750267028808594, "contralateral": 1.6250228881835938, "slices": [160]}
+{"case": "lung_034", "n": 3, "ipsilateral": 0.0002994537353515625, "contralateral": 1.2501220703125, "slices": [160, 173, 186]}
+{"case": "lung_034", "n": 5, "ipsilateral": 0.25096893310546875, "contralateral": 1.1257343292236328, "slices": [160, 166, 173, 180, 186]}
+{"case": "lung_034", "n": 10, "ipsilateral": -0.4986743927001953, "contralateral": 0.25118446350097656, "slices": [160, 163, 166, 169, 172, 174, 177, 180, 183, 186]}
+{"case": "lung_036", "n": 1, "ipsilateral": 2.0000267028808594, "contralateral": -0.3749561309814453, "slices": [88]}
+{"case": "lung_036", "n": 3, "ipsilateral": 1.0001544952392578, "contralateral": 0.5001716613769531, "slices": [88, 94, 101]}
+{"case": "lung_036", "n": 5, "ipsilateral": 0.7510395050048828, "contralateral": -0.2490692138671875, "slices": [88, 91, 94, 98, 101]}
+{"case": "lung_036", "n": 10, "ipsilateral": 0.5010852813720703, "contralateral": -0.49837493896484375, "slices": [88, 89, 91, 92, 94, 95, 97, 98, 100, 101]}
+{"case": "lung_037", "n": 1, "ipsilateral": 3.3750057220458984, "contralateral": 0.8750228881835938, "slices": [107]}
+{"case": "lung_037", "n": 3, "ipsilateral": 0.3751220703125, "contralateral": -0.3748645782470703, "slices": [107, 109, 112]}
+{"case": "lung_037", "n": 5, "ipsilateral": 0.0011310577392578125, "contralateral": -0.4994373321533203, "slices": [107, 108, 109, 111, 112]}
+{"case": "lung_037", "n": 10, "ipsilateral": -0.24881362915039062, "contralateral": -0.8741302490234375, "slices": [107, 108, 108, 109, 109, 110, 110, 111, 111, 112]}
+{"case": "lung_038", "n": 1, "ipsilateral": 2.125019073486328, "contralateral": 0.37502479553222656, "slices": [79]}
+{"case": "lung_038", "n": 3, "ipsilateral": -0.2497711181640625, "contralateral": -0.8746795654296875, "slices": [79, 83, 87]}
+{"case": "lung_038", "n": 5, "ipsilateral": -0.37395286560058594, "contralateral": -0.7491664886474609, "slices": [79, 81, 83, 85, 87]}
+{"case": "lung_038", "n": 10, "ipsilateral": -0.7488059997558594, "contralateral": -1.6237850189208984, "slices": [79, 80, 81, 82, 83, 83, 84, 85, 86, 87]}
+{"case": "lung_041", "n": 1, "ipsilateral": 0.875030517578125, "contralateral": 0.5000286102294922, "slices": [146]}
+{"case": "lung_041", "n": 3, "ipsilateral": 0.3752250671386719, "contralateral": 0.12537574768066406, "slices": [146, 164, 181]}
+{"case": "lung_041", "n": 5, "ipsilateral": 0.6261672973632812, "contralateral": 0.37650108337402344, "slices": [146, 155, 164, 172, 181]}
+{"case": "lung_041", "n": 10, "ipsilateral": 0.25133323669433594, "contralateral": 0.2519207000732422, "slices": [146, 150, 154, 158, 162, 165, 169, 173, 177, 181]}
+{"case": "lung_042", "n": 1, "ipsilateral": 0.1250286102294922, "contralateral": 1.6250190734863281, "slices": [76]}
+{"case": "lung_042", "n": 3, "ipsilateral": -0.6248226165771484, "contralateral": -0.12478828430175781, "slices": [76, 80, 84]}
+{"case": "lung_042", "n": 5, "ipsilateral": -0.7491207122802734, "contralateral": -0.2490367889404297, "slices": [76, 78, 80, 82, 84]}
+{"case": "lung_042", "n": 10, "ipsilateral": -1.1237125396728516, "contralateral": -0.4987220764160156, "slices": [76, 77, 78, 79, 80, 80, 81, 82, 83, 84]}
+{"case": "lung_043", "n": 1, "ipsilateral": 0.12503623962402344, "contralateral": 1.0000171661376953, "slices": [95]}
+{"case": "lung_043", "n": 3, "ipsilateral": 0.25018882751464844, "contralateral": -0.12487983703613281, "slices": [95, 99, 102]}
+{"case": "lung_043", "n": 5, "ipsilateral": -0.2490692138671875, "contralateral": -0.12426567077636719, "slices": [95, 97, 99, 100, 102]}
+{"case": "lung_043", "n": 10, "ipsilateral": -0.8739337921142578, "contralateral": -0.4990997314453125, "slices": [95, 96, 97, 97, 98, 99, 100, 100, 101, 102]}
+{"case": "lung_044", "n": 1, "ipsilateral": 2.86102294921875e-05, "contralateral": 0.5000267028808594, "slices": [135]}
+{"case": "lung_044", "n": 3, "ipsilateral": 0.000331878662109375, "contralateral": 0.00014495849609375, "slices": [135, 152, 169]}
+{"case": "lung_044", "n": 5, "ipsilateral": 0.12581253051757812, "contralateral": -0.24931907653808594, "slices": [135, 143, 152, 161, 169]}
+{"case": "lung_044", "n": 10, "ipsilateral": -0.6238594055175781, "contralateral": -0.7491378784179688, "slices": [135, 139, 143, 146, 150, 154, 158, 161, 165, 169]}
+{"case": "lung_045", "n": 1, "ipsilateral": 0.12503433227539062, "contralateral": 0.1250324249267578, "slices": [105]}
+{"case": "lung_045", "n": 3, "ipsilateral": -0.374725341796875, "contralateral": 0.0002422332763671875, "slices": [105, 113, 120]}
+{"case": "lung_045", "n": 5, "ipsilateral": 0.00090789794921875, "contralateral": -0.24913597106933594, "slices": [105, 109, 113, 116, 120]}
+{"case": "lung_045", "n": 10, "ipsilateral": -0.6236495971679688, "contralateral": -0.623809814453125, "slices": [105, 107, 108, 110, 112, 113, 115, 117, 118, 120]}
+{"case": "lung_046", "n": 1, "ipsilateral": 1.2500247955322266, "contralateral": -0.12497138977050781, "slices": [138]}
+{"case": "lung_046", "n": 3, "ipsilateral": -0.24981307983398438, "contralateral": -0.49974632263183594, "slices": [138, 152, 165]}
+{"case": "lung_046", "n": 5, "ipsilateral": 0.25086212158203125, "contralateral": 0.0009174346923828125, "slices": [138, 145, 152, 158, 165]}
+{"case": "lung_046", "n": 10, "ipsilateral": -0.12375831604003906, "contralateral": -0.8734683990478516, "slices": [138, 141, 144, 147, 150, 153, 156, 159, 162, 165]}
+{"case": "lung_047", "n": 1, "ipsilateral": 1.500020980834961, "contralateral": 1.500020980834961, "slices": [521]}
+{"case": "lung_047", "n": 3, "ipsilateral": -0.6247768402099609, "contralateral": 0.3751335144042969, "slices": [521, 531, 541]}
+{"case": "lung_047", "n": 5, "ipsilateral": 0.0011768341064453125, "contralateral": 0.5006504058837891, "slices": [521, 526, 531, 536, 541]}
+{"case": "lung_047", "n": 10, "ipsilateral": -0.12379646301269531, "contralateral": -0.12402534484863281, "slices": [521, 523, 525, 528, 530, 532, 534, 537, 539, 541]}
+{"case": "lung_048", "n": 1, "ipsilateral": 1.5000190734863281, "contralateral": 1.0000247955322266, "slices": [128]}
+{"case": "lung_048", "n": 3, "ipsilateral": -0.3747406005859375, "contralateral": 0.25017738342285156, "slices": [128, 134, 141]}
+{"case": "lung_048", "n": 5, "ipsilateral": -0.3742351531982422, "contralateral": 0.3760261535644531, "slices": [128, 131, 134, 138, 141]}
+{"case": "lung_048", "n": 10, "ipsilateral": -1.1241283416748047, "contralateral": -0.12381553649902344, "slices": [128, 129, 131, 132, 134, 135, 137, 138, 140, 141]}
+{"case": "lung_049", "n": 1, "ipsilateral": 1.3750228881835938, "contralateral": 2.375020980834961, "slices": [200]}
+{"case": "lung_049", "n": 3, "ipsilateral": 0.2501716613769531, "contralateral": -0.12483978271484375, "slices": [200, 206, 213]}
+{"case": "lung_049", "n": 5, "ipsilateral": 0.2509765625, "contralateral": -0.2493267059326172, "slices": [200, 203, 206, 210, 213]}
+{"case": "lung_049", "n": 10, "ipsilateral": -0.24765968322753906, "contralateral": -0.37402915954589844, "slices": [200, 201, 203, 204, 206, 207, 209, 210, 212, 213]}
+{"case": "lung_051", "n": 1, "ipsilateral": 1.0000247955322266, "contralateral": -0.7499809265136719, "slices": [90]}
+{"case": "lung_051", "n": 3, "ipsilateral": -0.1248016357421875, "contralateral": -0.749755859375, "slices": [90, 96, 101]}
+{"case": "lung_051", "n": 5, "ipsilateral": 0.12598609924316406, "contralateral": -0.7493629455566406, "slices": [90, 93, 96, 98, 101]}
+{"case": "lung_051", "n": 10, "ipsilateral": -0.6237888336181641, "contralateral": -1.2489261627197266, "slices": [90, 91, 92, 94, 95, 96, 97, 99, 100, 101]}
+{"case": "lung_053", "n": 1, "ipsilateral": 1.2500228881835938, "contralateral": 2.875011444091797, "slices": [148]}
+{"case": "lung_053", "n": 3, "ipsilateral": 0.6251564025878906, "contralateral": 0.12506866455078125, "slices": [148, 187, 226]}
+{"case": "lung_053", "n": 5, "ipsilateral": 0.3757667541503906, "contralateral": 0.2503337860107422, "slices": [148, 168, 187, 206, 226]}
+{"case": "lung_053", "n": 10, "ipsilateral": -0.3740653991699219, "contralateral": 0.000782012939453125, "slices": [148, 157, 165, 174, 183, 191, 200, 209, 217, 226]}
+{"case": "lung_054", "n": 1, "ipsilateral": 1.5000286102294922, "contralateral": 3.250011444091797, "slices": [156]}
+{"case": "lung_054", "n": 3, "ipsilateral": 0.12529373168945312, "contralateral": 0.3751239776611328, "slices": [156, 166, 176]}
+{"case": "lung_054", "n": 5, "ipsilateral": 0.6259174346923828, "contralateral": 0.5006237030029297, "slices": [156, 161, 166, 171, 176]}
+{"case": "lung_054", "n": 10, "ipsilateral": 0.3764209747314453, "contralateral": 0.12575340270996094, "slices": [156, 158, 160, 163, 165, 167, 169, 172, 174, 176]}
+{"case": "lung_055", "n": 1, "ipsilateral": 1.0000247955322266, "contralateral": 1.500030517578125, "slices": [144]}
+{"case": "lung_055", "n": 3, "ipsilateral": 0.5001392364501953, "contralateral": -0.2496662139892578, "slices": [144, 158, 172]}
+{"case": "lung_055", "n": 5, "ipsilateral": 1.0007381439208984, "contralateral": -0.12415695190429688, "slices": [144, 151, 158, 165, 172]}
+{"case": "lung_055", "n": 10, "ipsilateral": 0.0012664794921875, "contralateral": -0.24898529052734375, "slices": [144, 147, 150, 153, 156, 160, 163, 166, 169, 172]}
+{"case": "lung_057", "n": 1, "ipsilateral": -0.12497711181640625, "contralateral": 0.3750171661376953, "slices": [46]}
+{"case": "lung_057", "n": 3, "ipsilateral": -1.3748531341552734, "contralateral": -0.9997730255126953, "slices": [46, 49, 52]}
+{"case": "lung_057", "n": 5, "ipsilateral": -1.1240653991699219, "contralateral": -1.1241798400878906, "slices": [46, 48, 49, 50, 52]}
+{"case": "lung_057", "n": 10, "ipsilateral": -1.4987335205078125, "contralateral": -1.6239147186279297, "slices": [46, 47, 47, 48, 49, 49, 50, 51, 51, 52]}
+{"case": "lung_058", "n": 1, "ipsilateral": 0.625030517578125, "contralateral": 0.12502670288085938, "slices": [148]}
+{"case": "lung_058", "n": 3, "ipsilateral": -0.9997978210449219, "contralateral": -0.4997425079345703, "slices": [148, 152, 157]}
+{"case": "lung_058", "n": 5, "ipsilateral": -0.6238918304443359, "contralateral": -0.3738365173339844, "slices": [148, 150, 152, 155, 157]}
+{"case": "lung_058", "n": 10, "ipsilateral": -0.99847412109375, "contralateral": -0.4985198974609375, "slices": [148, 149, 150, 151, 152, 153, 154, 155, 156, 157]}
+{"case": "lung_059", "n": 1, "ipsilateral": 2.5000228881835938, "contralateral": -0.8749656677246094, "slices": [125]}
+{"case": "lung_059", "n": 3, "ipsilateral": 0.2501564025878906, "contralateral": -1.124542236328125, "slices": [125, 130, 135]}
+{"case": "lung_059", "n": 5, "ipsilateral": 0.5005378723144531, "contralateral": -1.1233234405517578, "slices": [125, 127, 130, 133, 135]}
+{"case": "lung_059", "n": 10, "ipsilateral": 0.2509937286376953, "contralateral": -1.2475090026855469, "slices": [125, 126, 127, 128, 129, 131, 132, 133, 134, 135]}
+{"case": "lung_061", "n": 1, "ipsilateral": 0.7500247955322266, "contralateral": 0.1250324249267578, "slices": [87]}
+{"case": "lung_061", "n": 3, "ipsilateral": -0.8745994567871094, "contralateral": -0.6246700286865234, "slices": [87, 92, 97]}
+{"case": "lung_061", "n": 5, "ipsilateral": -0.4983844757080078, "contralateral": -0.37389564514160156, "slices": [87, 89, 92, 95, 97]}
+{"case": "lung_061", "n": 10, "ipsilateral": -0.7482013702392578, "contralateral": -1.1231517791748047, "slices": [87, 88, 89, 90, 91, 93, 94, 95, 96, 97]}
+{"case": "lung_062", "n": 1, "ipsilateral": 1.625020980834961, "contralateral": 0.3750343322753906, "slices": [145]}
+{"case": "lung_062", "n": 3, "ipsilateral": -0.37471961975097656, "contralateral": -0.24968910217285156, "slices": [145, 153, 161]}
+{"case": "lung_062", "n": 5, "ipsilateral": 0.0009098052978515625, "contralateral": -0.6240577697753906, "slices": [145, 149, 153, 157, 161]}
+{"case": "lung_062", "n": 10, "ipsilateral": 0.00122833251953125, "contralateral": -0.7488117218017578, "slices": [145, 147, 149, 150, 152, 154, 156, 157, 159, 161]}
+{"case": "lung_064", "n": 1, "ipsilateral": 1.2500228881835938, "contralateral": 1.1250267028808594, "slices": [119]}
+{"case": "lung_064", "n": 3, "ipsilateral": 0.3751659393310547, "contralateral": 0.5001354217529297, "slices": [119, 146, 173]}
+{"case": "lung_064", "n": 5, "ipsilateral": 0.6256256103515625, "contralateral": 0.3756675720214844, "slices": [119, 133, 146, 159, 173]}
+{"case": "lung_064", "n": 10, "ipsilateral": 0.5010318756103516, "contralateral": 0.0010395050048828125, "slices": [119, 125, 131, 137, 143, 149, 155, 161, 167, 173]}
+{"case": "lung_065", "n": 1, "ipsilateral": -0.6249713897705078, "contralateral": 1.6250228881835938, "slices": [74]}
+{"case": "lung_065", "n": 3, "ipsilateral": -0.12480926513671875, "contralateral": 0.0002288818359375, "slices": [74, 83, 92]}
+{"case": "lung_065", "n": 5, "ipsilateral": 0.12624740600585938, "contralateral": -0.249237060546875, "slices": [74, 78, 83, 88, 92]}
+{"case": "lung_065", "n": 10, "ipsilateral": -0.37405967712402344, "contralateral": -0.8737106323242188, "slices": [74, 76, 78, 80, 82, 84, 86, 88, 90, 92]}
+{"case": "lung_066", "n": 1, "ipsilateral": 1.1250228881835938, "contralateral": 1.1250267028808594, "slices": [67]}
+{"case": "lung_066", "n": 3, "ipsilateral": -0.37471771240234375, "contralateral": -0.2497882843017578, "slices": [67, 79, 91]}
+{"case": "lung_066", "n": 5, "ipsilateral": -0.3738842010498047, "contralateral": -0.12395095825195312, "slices": [67, 73, 79, 85, 91]}
+{"case": "lung_066", "n": 10, "ipsilateral": -0.6239452362060547, "contralateral": -0.24852371215820312, "slices": [67, 70, 72, 75, 78, 80, 83, 86, 88, 91]}
+{"case": "lung_069", "n": 1, "ipsilateral": 0.2500324249267578, "contralateral": 1.8750190734863281, "slices": [91]}
+{"case": "lung_069", "n": 3, "ipsilateral": -0.4997730255126953, "contralateral": 0.12549400329589844, "slices": [91, 98, 105]}
+{"case": "lung_069", "n": 5, "ipsilateral": -0.12418937683105469, "contralateral": 0.6266880035400391, "slices": [91, 95, 98, 101, 105]}
+{"case": "lung_069", "n": 10, "ipsilateral": -0.8741359710693359, "contralateral": 0.12634658813476562, "slices": [91, 93, 94, 96, 97, 99, 100, 102, 103, 105]}
+{"case": "lung_070", "n": 1, "ipsilateral": 0.250030517578125, "contralateral": -0.6249713897705078, "slices": [149]}
+{"case": "lung_070", "n": 3, "ipsilateral": -0.6246623992919922, "contralateral": -1.3745994567871094, "slices": [149, 155, 162]}
+{"case": "lung_070", "n": 5, "ipsilateral": -0.24918174743652344, "contralateral": -0.7488975524902344, "slices": [149, 152, 155, 159, 162]}
+{"case": "lung_070", "n": 10, "ipsilateral": -0.7485618591308594, "contralateral": -1.2482643127441406, "slices": [149, 150, 152, 153, 155, 156, 158, 159, 161, 162]}
+{"case": "lung_071", "n": 1, "ipsilateral": 0.2500343322753906, "contralateral": 0.6250267028808594, "slices": [149]}
+{"case": "lung_071", "n": 3, "ipsilateral": -0.3748207092285156, "contralateral": -0.8747978210449219, "slices": [149, 157, 164]}
+{"case": "lung_071", "n": 5, "ipsilateral": -0.7492656707763672, "contralateral": -0.6240177154541016, "slices": [149, 153, 157, 160, 164]}
+{"case": "lung_071", "n": 10, "ipsilateral": -0.8739681243896484, "contralateral": -1.123453140258789, "slices": [149, 151, 152, 154, 156, 157, 159, 161, 162, 164]}
+{"case": "lung_073", "n": 1, "ipsilateral": 1.2500190734863281, "contralateral": -0.37497520446777344, "slices": [310]}
+{"case": "lung_073", "n": 3, "ipsilateral": 0.3752307891845703, "contralateral": -1.1247100830078125, "slices": [310, 332, 355]}
+{"case": "lung_073", "n": 5, "ipsilateral": 0.3756999969482422, "contralateral": -1.124124526977539, "slices": [310, 321, 332, 344, 355]}
+{"case": "lung_073", "n": 10, "ipsilateral": -0.12360572814941406, "contralateral": -1.2488079071044922, "slices": [310, 315, 320, 325, 330, 335, 340, 345, 350, 355]}
+{"case": "lung_074", "n": 1, "ipsilateral": 0.5000343322753906, "contralateral": 0.875030517578125, "slices": [259]}
+{"case": "lung_074", "n": 3, "ipsilateral": 0.5001487731933594, "contralateral": 0.0001010894775390625, "slices": [259, 299, 335]}
+{"case": "lung_074", "n": 5, "ipsilateral": 1.3755722045898438, "contralateral": 0.000530242919921875, "slices": [259, 281, 299, 317, 335]}
+{"case": "lung_074", "n": 10, "ipsilateral": 0.6263465881347656, "contralateral": 0.12567901611328125, "slices": [259, 271, 279, 287, 295, 303, 311, 319, 327, 335]}
+{"case": "lung_075", "n": 1, "ipsilateral": 1.000020980834961, "contralateral": 1.5000171661376953, "slices": [299]}
+{"case": "lung_075", "n": 3, "ipsilateral": 0.6251125335693359, "contralateral": -0.6248359680175781, "slices": [299, 316, 333]}
+{"case": "lung_075", "n": 5, "ipsilateral": 0.37586021423339844, "contralateral": -0.8740653991699219, "slices": [299, 307, 316, 325, 333]}
+{"case": "lung_075", "n": 10, "ipsilateral": 0.12572479248046875, "contralateral": -1.2488784790039062, "slices": [299, 303, 307, 310, 314, 318, 322, 325, 329, 333]}
+{"case": "lung_078", "n": 1, "ipsilateral": 0.375030517578125, "contralateral": -1.2499713897705078, "slices": [67]}
+{"case": "lung_078", "n": 3, "ipsilateral": -0.124725341796875, "contralateral": -0.8746662139892578, "slices": [67, 71, 75]}
+{"case": "lung_078", "n": 5, "ipsilateral": -0.6240749359130859, "contralateral": -0.6240825653076172, "slices": [67, 69, 71, 73, 75]}
+{"case": "lung_078", "n": 10, "ipsilateral": -0.6240653991699219, "contralateral": -1.3737945556640625, "slices": [67, 68, 69, 70, 71, 71, 72, 73, 74, 75]}
+{"case": "lung_079", "n": 1, "ipsilateral": 0.7500286102294922, "contralateral": 2.0000247955322266, "slices": [153]}
+{"case": "lung_079", "n": 3, "ipsilateral": 0.000278472900390625, "contralateral": 0.5001564025878906, "slices": [153, 163, 172]}
+{"case": "lung_079", "n": 5, "ipsilateral": 0.12596702575683594, "contralateral": 0.3756542205810547, "slices": [153, 158, 163, 167, 172]}
+{"case": "lung_079", "n": 10, "ipsilateral": -0.3732757568359375, "contralateral": 0.1256389617919922, "slices": [153, 155, 157, 159, 161, 164, 166, 168, 170, 172]}
+{"case": "lung_080", "n": 1, "ipsilateral": 1.875020980834961, "contralateral": 0.37502479553222656, "slices": [311]}
+{"case": "lung_080", "n": 3, "ipsilateral": -0.249786376953125, "contralateral": -0.8747844696044922, "slices": [311, 319, 327]}
+{"case": "lung_080", "n": 5, "ipsilateral": 0.0009250640869140625, "contralateral": -0.8740119934082031, "slices": [311, 315, 319, 323, 327]}
+{"case": "lung_080", "n": 10, "ipsilateral": -0.49916648864746094, "contralateral": -0.4989280700683594, "slices": [311, 313, 315, 316, 318, 320, 322, 323, 325, 327]}
+{"case": "lung_081", "n": 1, "ipsilateral": 1.7500190734863281, "contralateral": 1.0000247955322266, "slices": [186]}
+{"case": "lung_081", "n": 3, "ipsilateral": -0.37456512451171875, "contralateral": -0.6248092651367188, "slices": [186, 192, 199]}
+{"case": "lung_081", "n": 5, "ipsilateral": -0.12355613708496094, "contralateral": -0.6241455078125, "slices": [186, 189, 192, 196, 199]}
+{"case": "lung_081", "n": 10, "ipsilateral": -0.49838829040527344, "contralateral": -0.7485923767089844, "slices": [186, 187, 189, 190, 192, 193, 195, 196, 198, 199]}
+{"case": "lung_083", "n": 1, "ipsilateral": 1.2500171661376953, "contralateral": 2.7500152587890625, "slices": [105]}
+{"case": "lung_083", "n": 3, "ipsilateral": -0.37479591369628906, "contralateral": 0.2502288818359375, "slices": [105, 110, 115]}
+{"case": "lung_083", "n": 5, "ipsilateral": -0.12413787841796875, "contralateral": 0.6256694793701172, "slices": [105, 107, 110, 113, 115]}
+{"case": "lung_083", "n": 10, "ipsilateral": -0.623870849609375, "contralateral": 0.1258220672607422, "slices": [105, 106, 107, 108, 109, 111, 112, 113, 114, 115]}
+{"case": "lung_084", "n": 1, "ipsilateral": 1.2500286102294922, "contralateral": 0.12502670288085938, "slices": [161]}
+{"case": "lung_084", "n": 3, "ipsilateral": 0.25012779235839844, "contralateral": -0.24948501586914062, "slices": [161, 179, 196]}
+{"case": "lung_084", "n": 5, "ipsilateral": 0.7505531311035156, "contralateral": 0.2517738342285156, "slices": [161, 170, 179, 187, 196]}
+{"case": "lung_084", "n": 10, "ipsilateral": 0.5012264251708984, "contralateral": -0.497528076171875, "slices": [161, 165, 169, 173, 177, 180, 184, 188, 192, 196]}
+{"case": "lung_086", "n": 1, "ipsilateral": 0.7500247955322266, "contralateral": 0.8750247955322266, "slices": [179]}
+{"case": "lung_086", "n": 3, "ipsilateral": 1.2500839233398438, "contralateral": 0.12517356872558594, "slices": [179, 199, 219]}
+{"case": "lung_086", "n": 5, "ipsilateral": 0.8759708404541016, "contralateral": 0.37575340270996094, "slices": [179, 189, 199, 209, 219]}
+{"case": "lung_086", "n": 10, "ipsilateral": 0.2517681121826172, "contralateral": -0.4982585906982422, "slices": [179, 183, 188, 192, 197, 201, 206, 210, 215, 219]}
+{"case": "lung_092", "n": 1, "ipsilateral": 0.3750267028808594, "contralateral": 0.3750267028808594, "slices": [106]}
+{"case": "lung_092", "n": 3, "ipsilateral": -0.9995098114013672, "contralateral": -0.8747940063476562, "slices": [106, 113, 120]}
+{"case": "lung_092", "n": 5, "ipsilateral": -0.6235866546630859, "contralateral": -0.49895668029785156, "slices": [106, 110, 113, 116, 120]}
+{"case": "lung_092", "n": 10, "ipsilateral": -0.9980487823486328, "contralateral": -1.2483692169189453, "slices": [106, 108, 109, 111, 112, 114, 115, 117, 118, 120]}
+{"case": "lung_093", "n": 1, "ipsilateral": 0.3750324249267578, "contralateral": 1.6250247955322266, "slices": [121]}
+{"case": "lung_093", "n": 3, "ipsilateral": -0.24985504150390625, "contralateral": -0.4997596740722656, "slices": [121, 128, 134]}
+{"case": "lung_093", "n": 5, "ipsilateral": 0.25058937072753906, "contralateral": 0.0008106231689453125, "slices": [121, 125, 128, 131, 134]}
+{"case": "lung_093", "n": 10, "ipsilateral": -0.24912643432617188, "contralateral": -0.24901962280273438, "slices": [121, 123, 125, 126, 127, 129, 130, 131, 133, 134]}
+{"case": "lung_095", "n": 1, "ipsilateral": 1.0000228881835938, "contralateral": 1.7500190734863281, "slices": [99]}
+{"case": "lung_095", "n": 3, "ipsilateral": -0.7496871948242188, "contralateral": -0.2498016357421875, "slices": [99, 105, 111]}
+{"case": "lung_095", "n": 5, "ipsilateral": -0.4988880157470703, "contralateral": 0.001102447509765625, "slices": [99, 102, 105, 108, 111]}
+{"case": "lung_095", "n": 10, "ipsilateral": -0.7490825653076172, "contralateral": -0.3736686706542969, "slices": [99, 100, 102, 103, 104, 106, 107, 108, 110, 111]}
+{"case": "lung_096", "n": 1, "ipsilateral": 0.8750228881835938, "contralateral": -0.37497520446777344, "slices": [92]}
+{"case": "lung_096", "n": 3, "ipsilateral": -0.374786376953125, "contralateral": -0.8745689392089844, "slices": [92, 98, 104]}
+{"case": "lung_096", "n": 5, "ipsilateral": -0.7492237091064453, "contralateral": -0.7481632232666016, "slices": [92, 95, 98, 101, 104]}
+{"case": "lung_096", "n": 10, "ipsilateral": -0.7488651275634766, "contralateral": -0.8733081817626953, "slices": [92, 93, 95, 96, 97, 99, 100, 101, 103, 104]}
