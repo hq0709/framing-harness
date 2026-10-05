@@ -93,6 +93,24 @@ On the floor — the single worst presentation, which a deployed system does not
 |---|---|---|---|---|
 | balanced accuracy | 55.7% | 61.3% | 70.4% | **79.5%** |
 
+
+## Does centring need a balanced batch?
+
+It subtracts a batch median, and the runs above pair every real slice with the same slice minus its finding,
+so the batch is exactly half positive. Deployment is not. Resampling the same readings from 5% to 95%
+prevalence (`analysis/prevalence.py`):
+
+| positives in the batch | 5% | 10% | 20% | 35% | 50% | 65% | 80% | 95% |
+|---|---|---|---|---|---|---|---|---|
+| no centring | 70.2% | 70.5% | 70.4% | 70.5% | 70.2% | 70.6% | 70.3% | 70.1% |
+| **centre by median** | 68.4% | 69.2% | **72.0%** | **76.3%** | **79.2%** | **80.5%** | **77.3%** | **74.3%** |
+| centre by quantile, given the prevalence | 65.0% | 70.4% | 76.7% | 81.0% | 79.2% | 74.0% | 63.0% | **50.7%** |
+
+The median costs at most 1.8 points, and only below 20% prevalence; above that it pays, up to +9.9. **Use
+the median and do not use the prevalence** — the quantile version looks more principled and is worse,
+because fixing the threshold by quantile forces the predicted positive rate to equal the prevalence, which
+is a far stronger assumption than moving a zero, and an imperfect ranking does not survive it.
+
 ## What it buys: the floor, not the peak
 
 Twelve framings of the same evidence, five models, sixty cells. Balanced accuracy of each readout:
