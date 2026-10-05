@@ -68,22 +68,30 @@ is why it is third.
 training, no masks, no paired organ, no volume, no prior study, no change to the weights. That is the whole
 precondition, and it is why this is not a CT method: nothing in it uses a property of CT.
 
-Marginalising is the one that carries the result. Averaging the margin over twelve presentations of the same
-CT evidence:
+Measured on the CT runs, five models, twelve presentations each:
 
-| K presentations | 1 | 2 | 4 | 8 | 12 |
+| model | plain | `centre` | `marginalise` | **both** | says yes (plain) |
 |---|---|---|---|---|---|
-| balanced accuracy | 64.2% | 66.1% | 68.9% | 70.0% | **70.4%** |
-| AUROC | 0.763 | 0.806 | 0.837 | 0.857 | **0.863** |
+| InternVL3-8B | 50.1% | **65.3%** | 50.0% | **73.4%** | 96.3% |
+| Qwen3-VL-8B | 60.3% | 71.9% | 68.5% | **83.7%** | 70.4% |
+| Lingshu-7B | 75.8% | 77.1% | 81.9% | **87.9%** | 30.3% |
+| MedGemma-4b | 76.2% | 74.9% | 84.9% | 83.3% | 37.5% |
+| Qwen2.5-VL-7B | 59.8% | 62.3% | 66.7% | 69.0% | 16.2% |
+| **mean** | **64.4%** | **70.3%** | **70.4%** | **79.5%** | |
 
-Worst single presentation, 55.7%, against 70.4% averaged -- **+14.7 points on the floor**, with most of the
-gain already there by four presentations. MedGemma goes 76.2% to 84.9% and Lingshu 75.8% to 81.9%, both
-above their own best single presentation, which is not a thing one can choose in advance.
+The two operators are close to orthogonal, so they add: **+5.9 points for centring, +6.0 for averaging,
++15.0 for both.** Centring costs nothing — it needs a batch, not a second reading.
 
-The exception names the division of labour. InternVL3 answers Yes to 85-100% of everything, so its b does
-not straddle zero and averaging cannot cancel what never changes sign: 52.4% at K=1, 50.0% at K=12. The
-matched difference, which removes b's mean rather than its variance, takes it to 57.5%. **Average against
-the spread, difference against the offset.**
+The prediction they were derived from is the row that makes the case. InternVL3 answers yes to 96.3% of
+everything, so its `b` never changes sign and averaging has no spread to remove: 50.1% to 50.0%, nothing.
+Centring moves the zero instead and takes it to 65.3%, and both together to 73.4%. **Average against the
+spread, centre against the offset.**
+
+On the floor — the single worst presentation, which a deployed system does not get to avoid:
+
+| | plain | centred | averaged | centred and averaged |
+|---|---|---|---|---|
+| balanced accuracy | 55.7% | 61.3% | 70.4% | **79.5%** |
 
 ## What it buys: the floor, not the peak
 

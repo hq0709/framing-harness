@@ -28,25 +28,34 @@ no masks, no paired organ, no prior study, no change to the weights.
 
 ## What it buys
 
-Averaging the margin over twelve presentations of the same CT evidence, five models:
+Five models, twelve presentations of the same CT evidence, scored against the
+counterfactual in which the finding is erased:
 
-| K presentations | 1 | 2 | 4 | 8 | 12 |
+| model | plain | `centre` | `marginalise` | **both** | says yes (plain) |
 |---|---|---|---|---|---|
-| balanced accuracy | 64.2% | 66.1% | 68.9% | 70.0% | **70.4%** |
-| AUROC | 0.763 | 0.806 | 0.837 | 0.857 | **0.863** |
+| InternVL3-8B | 50.1% | **65.3%** | 50.0% | **73.4%** | 96.3% |
+| Qwen3-VL-8B | 60.3% | 71.9% | 68.5% | **83.7%** | 70.4% |
+| Lingshu-7B | 75.8% | 77.1% | 81.9% | **87.9%** | 30.3% |
+| MedGemma-4b | 76.2% | 74.9% | 84.9% | 83.3% | 37.5% |
+| Qwen2.5-VL-7B | 59.8% | 62.3% | 66.7% | 69.0% | 16.2% |
+| **mean** | **64.4%** | **70.3%** | **70.4%** | **79.5%** | |
 
-(`analysis/marginalisation_curve.py` prints this. Values below K=12 are means over random subsets of the
-twelve presentations, so they move a little between runs; K=12 and the floor below are exact.)
+The two operators are close to orthogonal, so they add: **+5.9 points for centring, +6.0 for averaging,
++15.0 for both.** Centring costs nothing — it needs a batch, not a second reading.
 
-The number that matters is the floor, because a deployed system does not choose which presentation it is
-handed: **the worst single presentation gives 55.7%, the average gives 70.4%** — 14.7 points — and most
-of the gain is already there at four readings. MedGemma goes 76.2% → 84.9% and Lingshu 75.8% → 81.9%, both
-above their own *best* single presentation.
+The prediction they were derived from is the row that makes the case. InternVL3 answers yes to 96.3% of
+everything, so its `b` never changes sign and averaging has no spread to remove: 50.1% to 50.0%, nothing.
+Centring moves the zero instead and takes it to 65.3%, and both together to 73.4%. **Average against the
+spread, centre against the offset.**
 
-The exception names the division of labour. InternVL3 answers yes to 85–100% of everything, so its `b` never
-changes sign and averaging cannot cancel it (52.4% at K=1, 50.0% at K=12). The matched difference, which
-removes `b`'s mean rather than its variance, takes it to 57.5%. **Average against the spread, difference
-against the offset.**
+On the floor — the single worst presentation, which a deployed system does not get to avoid:
+
+| | plain | centred | averaged | centred and averaged |
+|---|---|---|---|---|
+| balanced accuracy | 55.7% | 61.3% | 70.4% | **79.5%** |
+
+`analysis/operators.py` prints this; `analysis/marginalisation_curve.py` shows how the averaging gain
+accumulates with K (most of it by four readings, AUROC 0.763 to 0.863 at twelve).
 
 ## Why looking closer does not work here
 
