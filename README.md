@@ -88,6 +88,11 @@ python analysis/framing_table.py             # per-model, per-axis breakdown
 python analysis/scope.py                     # where the difference operator pays
 ```
 
+`bash scripts/check.sh` is the one to run first on a new machine. It exists because the first version of
+this repository was pushed with four scripts that compiled, started, and answered `--help`, and then died
+on an undefined name the moment they did any work -- a compile check cannot see a NameError, and these
+scripts parse their arguments before they touch anything.
+
 Files prefixed `UNDERSIZED_LEVELS_`, `DISTANT_ERASE_LEVEL_` and `INVALID_` are kept deliberately: they are
 measurements with a flaw that `METHOD.md` names. They are not inputs to any table.
 
@@ -95,6 +100,9 @@ measurements with a flaw that `METHOD.md` names. They are not inputs to any tabl
 
 ```bash
 pip install -e .
+bash scripts/check.sh                        # static scan, every script starts, tables rebuild
+python scripts/smoke.py                      # ~2 min on a GPU: does the readout work on this machine
+
 bash scripts/fetch_data.sh                   # tells you what to download and fetches what it can
 export FH_DATA=/path/to/data                 # default ./data
 export FH_RESULTS=/path/to/results           # default ./results
