@@ -94,6 +94,25 @@ On the floor — the single worst presentation, which a deployed system does not
 | balanced accuracy | 55.7% | 61.3% | 70.4% | **79.5%** |
 
 
+
+## Which presentations to spend a budget on
+
+Averaging only buys something if the readings disagree, so the quantity behind the method is how far apart
+the presentations are. Across the CT runs two presentations of the same item correlate at r = +0.448 —
+far from identical. Broken down by what separates a pair, and by what averaging along one axis alone is
+worth (`analysis/which_presentations.py`):
+
+| axis | correlation when a pair differs only here | levels | gain over one reading |
+|---|---|---|---|
+| window / level | +0.487 | 2 | **+3.6pp** |
+| crop | +0.487 | 3 | +3.5pp |
+| phrasing | **+0.796** | 2 | +1.2pp |
+| all three | | 12 | **+9.2pp** |
+
+**Rewording the question barely changes the reading** and is the axis to drop first. Window and level is the
+most efficient — two readings for +3.6 — but it exists only for tomographic data; for a photograph or a
+slide the equivalent axis is input resolution, which `src/fh/presentations.py` already varies.
+
 ## Does centring need a balanced batch?
 
 It subtracts a batch median, and the runs above pair every real slice with the same slice minus its finding,
